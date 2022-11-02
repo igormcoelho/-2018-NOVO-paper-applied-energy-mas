@@ -1,0 +1,782 @@
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Tugcu2012}
+C.~T. Tugcu, I.~Ozturk, A.~Aslan, Renewable and non-renewable energy
+  consumption and economic growth relationship revisited: Evidence from {G7}
+  countries, Energy Economics 34~(6) (2012) 1942 -- 1950.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.eneco.2012.08.021}
+  {\path{doi:http://dx.doi.org/10.1016/j.eneco.2012.08.021}}.
+
+\bibitem{Hall2014}
+S.~Hall, T.~J. Foxon, Values in the smart grid: The co-evolving political
+  economy of smart distribution, Energy Policy 74~(0) (2014) 600 -- 609.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.enpol.2014.08.018}
+  {\path{doi:http://dx.doi.org/10.1016/j.enpol.2014.08.018}}.
+
+\bibitem{Fadaeenejad2014}
+M.~Fadaeenejad, A.~Saberian, M.~Fadaee, M.~Radzi, H.~Hizam, M.~AbKadir, The
+  present and future of smart power grid in developing countries, Renewable and
+  Sustainable Energy Reviews 29~(0) (2014) 828 -- 834.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2013.08.072}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2013.08.072}}.
+
+\bibitem{Zhao2015}
+B.~Zhao, M.~Xue, X.~Zhang, C.~Wang, J.~Zhao, An {MAS} based energy management
+  system for a stand-alone microgrid at high altitude, Applied Energy 143~(0)
+  (2015) 251 -- 261.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.apenergy.2015.01.016}
+  {\path{doi:http://dx.doi.org/10.1016/j.apenergy.2015.01.016}}.
+
+\bibitem{Olivares2014TrendsMG}
+D.~Olivares, A.~Mehrizi-Sani, A.~Etemadi, C.~Canizares, R.~Iravani,
+  M.~Kazerani, A.~Hajimiragha, O.~Gomis-Bellmunt, M.~Saeedifard,
+  R.~Palma-Behnke, G.~Jimenez-Estevez, N.~Hatziargyriou, Trends in microgrid
+  control, Smart Grid, IEEE Transactions on 5~(4) (2014) 1905--1919.
+\newblock \href {http://dx.doi.org/10.1109/TSG.2013.2295514}
+  {\path{doi:10.1109/TSG.2013.2295514}}.
+
+\bibitem{Farhangi2010}
+H.~Farhangi, The path of the smart grid, Power and Energy Magazine, IEEE 8~(1)
+  (2010) 18--28.
+\newblock \href {http://dx.doi.org/10.1109/MPE.2009.934876}
+  {\path{doi:10.1109/MPE.2009.934876}}.
+
+\bibitem{Dimitrios2015UKSGDevelopment}
+D.~Xenias, C.~J. Axon, L.~Whitmarsh, P.~M. Connor, N.~Balta-Ozkan, A.~Spence,
+  {UK} smart grid development: An expert assessment of the benefits, pitfalls
+  and functions, Renewable Energy 81~(0) (2015) 89 -- 102.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.renene.2015.03.016}
+  {\path{doi:http://dx.doi.org/10.1016/j.renene.2015.03.016}}.
+
+\bibitem{Rogers2012-Challenges}
+A.~Rogers, S.~D. Ramchurn, N.~R. Jennings, Challenges for autonomous agents and
+  multi-agent systems research, in: Twenty-Sixth AAAI Conference on Artificial
+  Intelligence (AAAI-12), Toronto, CA, 2012, pp. 2166--2172.
+
+\bibitem{Nguyen2012AgentBasedRestorationSG}
+C.~Nguyen, A.~Flueck, Agent based restoration with distributed energy storage
+  support in smart grids, Smart Grid, IEEE Transactions on 3~(2) (2012)
+  1029--1038.
+\newblock \href {http://dx.doi.org/10.1109/TSG.2012.2186833}
+  {\path{doi:10.1109/TSG.2012.2186833}}.
+
+\bibitem{Lidula2011TestSystemMG}
+N.~Lidula, A.~Rajapakse, Microgrids research: A review of experimental
+  microgrids and test systems, Renewable and Sustainable Energy Reviews 15~(1)
+  (2011) 186 -- 202.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2010.09.041}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2010.09.041}}.
+
+\bibitem{Merabet2014Applications}
+G.~Merabet, M.~Essaaidi, H.~Talei, M.~Abid, N.~Khalil, M.~Madkour,
+  D.~Benhaddou, Applications of multi-agent systems in smart grids: A survey,
+  in: Multimedia Computing and Systems (ICMCS), 2014 International Conference
+  on, 2014, pp. 1088--1094.
+\newblock \href {http://dx.doi.org/10.1109/ICMCS.2014.6911384}
+  {\path{doi:10.1109/ICMCS.2014.6911384}}.
+
+\bibitem{McArthur2007a}
+S.~McArthur, E.~Davidson, V.~Catterson, A.~Dimeas, N.~Hatziargyriou, F.~Ponci,
+  T.~Funabashi, Multi-agent systems for power engineering applications -- part
+  i: Concepts, approaches, and technical challenges, Power Systems, IEEE
+  Transactions on 22~(4) (2007) 1743--1752.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2007.908471}
+  {\path{doi:10.1109/TPWRS.2007.908471}}.
+
+\bibitem{JimenoArchitectureMG2011}
+J.~Jimeno, J.~Anduaga, J.~Oyarzabal, A.~G. de~Muro,
+  \href{http://dx.doi.org/10.1002/etep.443}{Architecture of a microgrid energy
+  management system}, European Transactions on Electrical Power 21~(2) (2011)
+  1142--1158.
+\newblock \href {http://dx.doi.org/10.1002/etep.443}
+  {\path{doi:10.1002/etep.443}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1002/etep.443}
+
+\bibitem{Jiayi2008}
+H.~Jiayi, J.~Chuanwen, X.~Rong, A review on distributed energy resources and
+  microgrid, Renewable and Sustainable Energy Reviews 12~(9) (2008) 2472 --
+  2483.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2007.06.004}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2007.06.004}}.
+
+\bibitem{Dou2014}
+C.~xia Dou, B.~Liu, Hierarchical management and control based on {MAS} for
+  distribution grid via intelligent mode switching, International Journal of
+  Electrical Power \& Energy Systems 54 (2014) 352 -- 366.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ijepes.2013.07.029}
+  {\path{doi:http://dx.doi.org/10.1016/j.ijepes.2013.07.029}}.
+
+\bibitem{Zheng2010}
+W.-D. Zheng, J.-D. Cai, A multi-agent system for distributed energy resources
+  control in microgrid, in: Critical Infrastructure (CRIS), 2010 5th
+  International Conference on, 2010, pp. 1--5.
+\newblock \href {http://dx.doi.org/10.1109/CRIS.2010.5617485}
+  {\path{doi:10.1109/CRIS.2010.5617485}}.
+
+\bibitem{Romo2015}
+R.~Romo, O.~Micheloud, Power quality of actual grids with plug-in electric
+  vehicles in presence of renewables and micro-grids, Renewable and Sustainable
+  Energy Reviews 46~(0) (2015) 189 -- 200.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2015.02.014}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2015.02.014}}.
+
+\bibitem{Mwasilu2014}
+F.~Mwasilu, J.~J. Justo, E.-K. Kim, T.~D. Do, J.-W. Jung, Electric vehicles and
+  smart grid interaction: A review on vehicle to grid and renewable energy
+  sources integration, Renewable and Sustainable Energy Reviews 34 (2014) 501
+  -- 516.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.03.031}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.03.031}}.
+
+\bibitem{Logenthiran2008}
+T.~Logenthiran, D.~Srinivasan, D.~Wong, Multi-agent coordination for {DER} in
+  microgrid, in: Sustainable Energy Technologies, 2008. ICSET 2008. IEEE
+  International Conference on, 2008, pp. 77--82.
+\newblock \href {http://dx.doi.org/10.1109/ICSET.2008.4746976}
+  {\path{doi:10.1109/ICSET.2008.4746976}}.
+
+\bibitem{Agrawal2014}
+M.~Agrawal, A.~Mittal, Overview of multi-agent approach for micro-grid energy
+  management, Journal of Electrical and Electronics Engineering, {IOSR-JEEE} 9
+  (2014) 01 -- 07.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.03.031}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.03.031}}.
+
+\bibitem{goldsmith2012computingPatent}
+S.~Goldsmith, \href{http://google.com/patents/WO2012078433A2?cl=en}{Computing
+  architecture for autonomous microgrids}, {WO} Patent App. PCT/US2011/062,717
+  (06 2012).
+\newline\urlprefix\url{http://google.com/patents/WO2012078433A2?cl=en}
+
+\bibitem{SAMPIGETHAYA2012}
+S.~R. G,
+  \href{http://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20130808&DB=&locale=en_EP&CC=WO&NR=2013115936A1&KC=A1&ND=1}{Methods
+  and systems for cyber-physical security modeling, simulation and architecture
+  for the smart grid} (08 2013).
+\newline\urlprefix\url{http://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20130808&DB=&locale=en_EP&CC=WO&NR=2013115936A1&KC=A1&ND=1}
+
+\bibitem{Gomez2014ReviewMGFromMASUse}
+J.~J. Gomez-Sanz, S.~Garcia-Rodriguez, N.~Cuartero-Soler, L.~Hernandez-Callejo,
+  Reviewing microgrids from a multi-agent systems perspective, Energies 7~(5)
+  (2014) 3355--3382.
+\newblock \href {http://dx.doi.org/10.3390/en7053355}
+  {\path{doi:10.3390/en7053355}}.
+
+\bibitem{Ekanayake2012BookSG}
+J.~Ekanayake, K.~Liyanage, J.~Wu, A.~Yokoyama, N.~Jenkins, Smart grid:
+  technology and applications, John Wiley \& Sons, 2012.
+
+\bibitem{SGVisionReportEuropeanComission2006}
+E.~Commission, Smart grids -- vision and strategy for europe's electricity
+  networks of the future, Tech. Rep. EUR 22040, European Commission (2006).
+
+\bibitem{Ellabban2014}
+O.~Ellabban, H.~Abu-Rub, F.~Blaabjerg, Renewable energy resources: Current
+  status, future prospects and their enabling technology, Renewable and
+  Sustainable Energy Reviews 39~(0) (2014) 748 -- 764.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.07.113}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.07.113}}.
+
+\bibitem{Ederer2015Offshore}
+N.~Ederer, Evaluating capital and operating cost efficiency of offshore wind
+  farms: A {DEA} approach, Renewable and Sustainable Energy Reviews 42 (2015)
+  1034 -- 1046.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.10.071}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.10.071}}.
+
+\bibitem{Levron2013}
+Y.~Levron, J.~Guerrero, Y.~Beck, Optimal power flow in microgrids with energy
+  storage, Power Systems, IEEE Transactions on 28~(3) (2013) 3226--3234.
+
+\bibitem{Manchester2015RegenerativeAirEneStorage}
+S.~C. Manchester, L.~G. Swan, D.~Groulx, Regenerative air energy storage for
+  remote wind-diesel micro-grid communities, Applied Energy 137~(0) (2015) 490
+  -- 500.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.apenergy.2014.06.070}
+  {\path{doi:http://dx.doi.org/10.1016/j.apenergy.2014.06.070}}.
+
+\bibitem{RigoMariani2014}
+R.~Rigo-Mariani, B.~Sareni, X.~Roboam, C.~Turpin, Optimal power dispatching
+  strategies in smart-microgrids with storage, Renewable and Sustainable Energy
+  Reviews 40~(0) (2014) 649 -- 658.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.07.138}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.07.138}}.
+
+\bibitem{Comodi2015}
+G.~Comodi, A.~Giantomassi, M.~Severini, S.~Squartini, F.~Ferracuti, A.~Fonti,
+  D.~N. Cesarini, M.~Morodo, F.~Polonara, Multi-apartment residential microgrid
+  with electrical and thermal storage devices: Experimental analysis and
+  simulation of energy management strategies, Applied Energy 137~(0) (2015) 854
+  -- 866.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.apenergy.2014.07.068}
+  {\path{doi:http://dx.doi.org/10.1016/j.apenergy.2014.07.068}}.
+
+\bibitem{Zakeri2015}
+B.~Zakeri, S.~Syri, Electrical energy storage systems: A comparative life cycle
+  cost analysis, Renewable and Sustainable Energy Reviews 42~(0) (2015) 569 --
+  596.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.10.011}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.10.011}}.
+
+\bibitem{tinador2008superconducting}
+P.~Tinador, Superconducting magnetic energy storage; status and perspective,
+  in: IEEE/CSC\&ESAS European Superconductivity news forum, no.~3, 2008.
+
+\bibitem{GarciaPEVReview2014}
+J.~Garc\'ia-Villalobos, I.~Zamora, J.~S. Mart\'in, F.~Asensio, V.~Aperribay,
+  Plug-in electric vehicles in electric distribution networks: A review of
+  smart charging approaches, Renewable and Sustainable Energy Reviews 38 (2014)
+  717 -- 731.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.07.040}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.07.040}}.
+
+\bibitem{Tabrizi2015}
+Rooftop wind monitoring campaigns for small wind turbine applications: Effect
+  of sampling rate and averaging period.
+
+\bibitem{Kumar2014WCCI}
+G.~Venayagamoorthy, P.~Chakravarty, Optimal fuzzy logic based coordination
+  controller for improved transient stability of a smart grid, in: Fuzzy
+  Systems (FUZZ-IEEE), 2014 IEEE International Conference on, 2014, pp.
+  346--353.
+\newblock \href {http://dx.doi.org/10.1109/FUZZ-IEEE.2014.6891824}
+  {\path{doi:10.1109/FUZZ-IEEE.2014.6891824}}.
+
+\bibitem{PereiraJr2013}
+A.~O.~P. Jr, R.~C. da~Costa, C.~do~Vale~Costa, J.~de~Moraes~Marreco, E.~L.~L.
+  Rovere, Perspectives for the expansion of new renewable energy sources in
+  brazil, Renewable and Sustainable Energy Reviews 23~(0) (2013) 49 -- 59.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2013.02.020}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2013.02.020}}.
+
+\bibitem{Welsch2013}
+M.~Welsch, M.~Bazilian, M.~Howells, D.~Divan, D.~Elzinga, G.~Strbac, L.~Jones,
+  A.~Keane, D.~Gielen, V.~M. Balijepalli, A.~Brew-Hammond, K.~Yumkella, Smart
+  and just grids for sub-saharan africa: Exploring options, Renewable and
+  Sustainable Energy Reviews 20~(0) (2013) 336 -- 352.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2012.11.004}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2012.11.004}}.
+
+\bibitem{Kahrobaee2014}
+S.~Kahrobaee, R.~A. Rajabzadeh, L.-K. Soh, S.~Asgarpoor, Multiagent study of
+  smart grid customers with neighborhood electricity trading, Electric Power
+  Systems Research (2014) 123 -- 132\href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.epsr.2014.02.013}
+  {\path{doi:http://dx.doi.org/10.1016/j.epsr.2014.02.013}}.
+
+\bibitem{Lagorse2010}
+J.~Lagorse, D.~Paire, A.~Miraoui, A multi-agent system for energy management of
+  distributed power sources, Renewable Energy 35~(1) (2010) 174 -- 182.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.renene.2009.02.029}
+  {\path{doi:http://dx.doi.org/10.1016/j.renene.2009.02.029}}.
+
+\bibitem{Brown2008}
+R.~Brown, Impact of smart grid on distribution system design, in: Power and
+  Energy Society General Meeting - Conversion and Delivery of Electrical Energy
+  in the 21st Century, 2008 IEEE, 2008, pp. 1--4.
+\newblock \href {http://dx.doi.org/10.1109/PES.2008.4596843}
+  {\path{doi:10.1109/PES.2008.4596843}}.
+
+\bibitem{Batista2013}
+N.~Batista, R.~Mel\'icio, J.~Matias, J.~C. ao, Photovoltaic and wind energy
+  systems monitoring and building/home energy management using zigbee devices
+  within a smart grid, Energy 49 (2013) 306 -- 315.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.energy.2012.11.002}
+  {\path{doi:http://dx.doi.org/10.1016/j.energy.2012.11.002}}.
+
+\bibitem{McHenry2013}
+M.~P. McHenry, Technical and governance considerations for advanced metering
+  infrastructure/smart meters: Technology, security, uncertainty, costs,
+  benefits, and risks, Energy Policy 59 (2013) 834 -- 842.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.enpol.2013.04.048}
+  {\path{doi:http://dx.doi.org/10.1016/j.enpol.2013.04.048}}.
+
+\bibitem{McArthur2007b}
+S.~McArthur, E.~Davidson, V.~Catterson, A.~Dimeas, N.~Hatziargyriou, F.~Ponci,
+  T.~Funabashi, Multi-agent systems for power engineering applications 2014 --
+  part ii: Technologies, standards, and tools for building multi-agent systems,
+  Power Systems, IEEE Transactions on 22~(4) (2007) 1753--1759.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2007.908472}
+  {\path{doi:10.1109/TPWRS.2007.908472}}.
+
+\bibitem{Bellifemine2001JADE}
+F.~Bellifemine, A.~Poggi, G.~Rimassa, Jade: A fipa2000 compliant agent
+  development environment, in: Proceedings of the Fifth International
+  Conference on Autonomous Agents, ACM, New York, NY, USA, 2001, pp. 216--217.
+\newblock \href {http://dx.doi.org/10.1145/375735.376120}
+  {\path{doi:10.1145/375735.376120}}.
+
+\bibitem{Wu2014}
+K.~Wu, H.~Zhou, A multi-agent-based energy-coordination control system for
+  grid-connected large-scale wind -- photovoltaic energy storage
+  power-generation units, Solar Energy 107 (2014) 245 -- 259.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.solener.2014.05.012}
+  {\path{doi:http://dx.doi.org/10.1016/j.solener.2014.05.012}}.
+
+\bibitem{Yu2015}
+W.-Y. Yu, V.-W. Soo, M.-S. Tsai, Power distribution system service restoration
+  bases on a committee-based intelligent agent architecture, Engineering
+  Applications of Artificial Intelligence 41 (2015) 92 -- 102.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.engappai.2015.01.011}
+  {\path{doi:http://dx.doi.org/10.1016/j.engappai.2015.01.011}}.
+
+\bibitem{Wooldridge2009MASIntroduc}
+M.~Wooldridge, An Introduction to MultiAgent Systems, 2nd Edition, John Wiley
+  \& Sons, 2009.
+
+\bibitem{Karfopoulos2015}
+E.~Karfopoulos, L.~Tena, A.~Torres, P.~Salas, J.~G. Jorda, A.~Dimeas,
+  N.~Hatziargyriou, A multi-agent system providing demand response services
+  from residential consumers, Electric Power Systems Research 120~(0) (2015)
+  163 -- 176, smart Grids: World's Actual Implementations.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.epsr.2014.06.001}
+  {\path{doi:http://dx.doi.org/10.1016/j.epsr.2014.06.001}}.
+
+\bibitem{Logenthiran2011}
+T.~Logenthiran, D.~Srinivasan, A.~M. Khambadkone, Multi-agent system for energy
+  resource scheduling of integrated microgrids in a distributed system,
+  Electric Power Systems Research 81~(1) (2011) 138 -- 148.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.epsr.2010.07.019}
+  {\path{doi:http://dx.doi.org/10.1016/j.epsr.2010.07.019}}.
+
+\bibitem{Velik2014}
+R.~Velik, P.~Nicolay, A cognitive decision agent architecture for optimal
+  energy management of microgrids, Energy Conversion and Management 86 (2014)
+  831 -- 847.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.enconman.2014.06.047}
+  {\path{doi:http://dx.doi.org/10.1016/j.enconman.2014.06.047}}.
+
+\bibitem{Hong2014}
+T.~Hong, J.~Wilson, J.~Xie, Long term probabilistic load forecasting and
+  normalization with hourly information, Smart Grid, IEEE Transactions on 5~(1)
+  (2014) 456--462.
+
+\bibitem{Zhang2014}
+Y.~Zhang, J.~Wang, X.~Wang, Review on probabilistic forecasting of wind power
+  generation, Renewable and Sustainable Energy Reviews 32~(0) (2014) 255 --
+  270.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.01.033}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.01.033}}.
+
+\bibitem{Weron2014}
+R.~Weron, Electricity price forecasting: A review of the state-of-the-art with
+  a look into the future, International Journal of Forecasting 30~(4) (2014)
+  1030 -- 1081.
+
+\bibitem{Xenias2015}
+D.~Xenias, C.~J. Axon, L.~Whitmarsh, P.~M. Connor, N.~Balta-Ozkan, A.~Spence,
+  {UK} smart grid development: An expert assessment of the benefits, pitfalls
+  and functions, Renewable Energy 81~(0) (2015) 89 -- 102.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.renene.2015.03.016}
+  {\path{doi:http://dx.doi.org/10.1016/j.renene.2015.03.016}}.
+
+\bibitem{Almulali2013}
+U.~Al-mulali, H.~G. Fereidouni, J.~Y. Lee, C.~N. B.~C. Sab, Exploring the
+  relationship between urbanization, energy consumption, and {CO2} emission in
+  {MENA} countries, Renewable and Sustainable Energy Reviews 23 (2013) 107 --
+  112.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2013.02.041}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2013.02.041}}.
+
+\bibitem{Saadatian2013}
+O.~Saadatian, K.~Sopian, E.~Salleh, C.~Lim, S.~Riffat, E.~Saadatian,
+  A.~Toudeshki, M.~Sulaiman, A review of energy aspects of green roofs,
+  Renewable and Sustainable Energy Reviews 23 (2013) 155 -- 168.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2013.02.022}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2013.02.022}}.
+
+\bibitem{Ishugah2014}
+T.~Ishugah, Y.~Li, R.~Wang, J.~Kiplagat, Advances in wind energy resource
+  exploitation in urban environment: A review, Renewable and Sustainable Energy
+  Reviews 37 (2014) 613 -- 626.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.05.053}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.05.053}}.
+
+\bibitem{TojaSilva2013}
+F.~Toja-Silva, A.~Colmenar-Santos, M.~Castro-Gil, Urban wind energy
+  exploitation systems: Behaviour under multidirectional flow conditions --
+  opportunities and challenges, Renewable and Sustainable Energy Reviews 24
+  (2013) 364 -- 378.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2013.03.052}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2013.03.052}}.
+
+\bibitem{Sarralde2015}
+J.~J. Sarralde, D.~J. Quinn, D.~Wiesmann, K.~Steemers, Solar energy and urban
+  morphology: Scenarios for increasing the renewable energy potential of
+  neighbourhoods in london, Renewable Energy 73 (2015) 10 -- 17, sustainable
+  Development in Building and Environment (SuDBE) 2013.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.renene.2014.06.028}
+  {\path{doi:http://dx.doi.org/10.1016/j.renene.2014.06.028}}.
+
+\bibitem{Lopes2006}
+J.~Peas~Lopes, C.~Moreira, A.~Madureira, Defining control strategies for
+  microgrids islanded operation, Power Systems, IEEE Transactions on 21~(2)
+  (2006) 916--924.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2006.873018}
+  {\path{doi:10.1109/TPWRS.2006.873018}}.
+
+\bibitem{Pipattanasomporn2009}
+M.~Pipattanasomporn, H.~Feroze, S.~Rahman, Multi-agent systems in a distributed
+  smart grid: Design and implementation, in: Power Systems Conference and
+  Exposition, 2009. PSCE '09. IEEE/PES, 2009, pp. 1--8.
+\newblock \href {http://dx.doi.org/10.1109/PSCE.2009.4840087}
+  {\path{doi:10.1109/PSCE.2009.4840087}}.
+
+\bibitem{Pavon2003INGENIAS}
+J.~Pav\'on, J.~Gómez-Sanz, Agent oriented software engineering with ingenias,
+  in: Multi-Agent Systems and Applications III, Vol. 2691 of Lecture Notes in
+  Computer Science, Springer Berlin Heidelberg, 2003, pp. 394--403.
+\newblock \href {http://dx.doi.org/10.1007/3-540-45023-8_38}
+  {\path{doi:10.1007/3-540-45023-8_38}}.
+
+\bibitem{Dimeas2005}
+A.~Dimeas, N.~Hatziargyriou, Operation of a multiagent system for microgrid
+  control, Power Systems, IEEE Transactions on 20~(3) (2005) 1447--1455.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2005.852060}
+  {\path{doi:10.1109/TPWRS.2005.852060}}.
+
+\bibitem{Jun2011}
+Z.~Jun, L.~Junfeng, W.~Jie, H.~Ngan, A multi-agent solution to energy
+  management in hybrid renewable energy generation system, Renewable Energy
+  36~(5) (2011) 1352 -- 1363.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.renene.2010.11.032}
+  {\path{doi:http://dx.doi.org/10.1016/j.renene.2010.11.032}}.
+
+\bibitem{Kuznetsova2014}
+E.~Kuznetsova, Y.-F. Li, C.~Ruiz, E.~Zio, An integrated framework of
+  agent-based modelling and robust optimization for microgrid energy
+  management, Applied Energy 129~(0) (2014) 70 -- 88.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.apenergy.2014.04.024}
+  {\path{doi:http://dx.doi.org/10.1016/j.apenergy.2014.04.024}}.
+
+\bibitem{Xiao2010}
+Z.~Xiao, T.~Li, M.~Huang, J.~Shi, J.~Yang, J.~Yu, W.~Wu, Hierarchical mas based
+  control strategy for microgrid, Energies 3~(9) (2010) 1622--1638.
+\newblock \href {http://dx.doi.org/10.3390/en3091622}
+  {\path{doi:10.3390/en3091622}}.
+
+\bibitem{Dou2014HybridMASMGControl}
+X.~Dou, X.~Quan, Z.~Wu, M.~Hu, K.~Yang, J.~Yuan, M.~Wang, Hybrid multi-agent
+  control in microgrids: Framework, models and implementations based on {IEC}
+  61850, Energies 8~(1) (2014) 31--58.
+\newblock \href {http://dx.doi.org/10.3390/en8010031}
+  {\path{doi:10.3390/en8010031}}.
+
+\bibitem{Liu2013MASFrequencyStabilizationIslanded}
+W.~Liu, W.~Gu, B.~Zhao, A novel multi-agent based control approach for
+  frequency stabilization of islanded microgrids, in: Innovative Smart Grid
+  Technologies Europe (ISGT EUROPE), 2013 4th IEEE/PES, 2013, pp. 1--5.
+\newblock \href {http://dx.doi.org/10.1109/ISGTEurope.2013.6695328}
+  {\path{doi:10.1109/ISGTEurope.2013.6695328}}.
+
+\bibitem{Kim2010LoadSheddingMAS}
+H.-M. Kim, T.~Kinoshita, Y.~Lim, T.-H. Kim, A bankruptcy problem approach to
+  load-shedding in multiagent-based microgrid operation, Sensors 10~(10) (2010)
+  8888--8898.
+\newblock \href {http://dx.doi.org/10.3390/s101008888}
+  {\path{doi:10.3390/s101008888}}.
+
+\bibitem{Rahman2015MASTransientStabilitySG}
+M.~Rahman, M.~Mahmud, H.~Pota, M.~Hossain, A multi-agent approach for enhancing
+  transient stability of smart grids, International Journal of Electrical Power
+  \& Energy Systems 67~(0) (2015) 488 -- 500.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ijepes.2014.12.038}
+  {\path{doi:http://dx.doi.org/10.1016/j.ijepes.2014.12.038}}.
+
+\bibitem{daRosa2012}
+M.~A. da~Rosa, A.~M.~L. da~Silva, V.~Miranda, Multi-agent systems applied to
+  reliability assessment of power systems, International Journal of Electrical
+  Power \& Energy Systems 42~(1) (2012) 367 -- 374.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ijepes.2012.03.048}
+  {\path{doi:http://dx.doi.org/10.1016/j.ijepes.2012.03.048}}.
+
+\bibitem{Zhao2013OperationStandAloneMG}
+B.~Zhao, X.~Zhang, J.~Chen, C.~Wang, L.~Guo, Operation optimization of
+  standalone microgrids considering lifetime characteristics of battery energy
+  storage system, Sustainable Energy, IEEE Transactions on 4~(4) (2013)
+  934--943.
+\newblock \href {http://dx.doi.org/10.1109/TSTE.2013.2248400}
+  {\path{doi:10.1109/TSTE.2013.2248400}}.
+
+\bibitem{Tan2013}
+X.~Tan, Q.~Li, H.~Wang, Advances and trends of energy storage technology in
+  microgrid, International Journal of Electrical Power \& Energy Systems 44~(1)
+  (2013) 179 -- 191.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ijepes.2012.07.015}
+  {\path{doi:http://dx.doi.org/10.1016/j.ijepes.2012.07.015}}.
+
+\bibitem{colson2009ant}
+C.~Colson, M.~Nehrir, C.~Wang, Ant colony optimization for microgrid
+  multi-objective power management, in: Power Systems Conference and
+  Exposition, 2009. PSCE'09. IEEE/PES, 2009, pp. 1--7.
+
+\bibitem{Zhang2015}
+P.~Zhang, F.~Yan, C.~Du, A comprehensive analysis of energy management
+  strategies for hybrid electric vehicles based on bibliometrics, Renewable and
+  Sustainable Energy Reviews 48~(0) (2015) 88 -- 104.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2015.03.093}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2015.03.093}}.
+
+\bibitem{Saber2010}
+Intelligent unit commitment with vehicle-to-grid -- a cost-emission
+  optimization, Journal of Power Sources 195~(3) (2010) 898 -- 911.
+
+\bibitem{Hu2015}
+J.~Hu, A.~Saleem, S.~You, L.~Nordstrom, M.~Lind, J.~Ostergaard, A multi-agent
+  system for distribution grid congestion management with electric vehicles,
+  Engineering Applications of Artificial Intelligence 38~(0) (2015) 45 -- 58.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.engappai.2014.10.017}
+  {\path{doi:http://dx.doi.org/10.1016/j.engappai.2014.10.017}}.
+
+\bibitem{Ramachandran2013}
+B.~Ramachandran, S.~K. Srivastava, D.~A. Cartes, Intelligent power management
+  in micro grids with {EV} penetration, Expert Systems with Applications
+  40~(16) (2013) 6631 -- 6640.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.eswa.2013.06.007}
+  {\path{doi:http://dx.doi.org/10.1016/j.eswa.2013.06.007}}.
+
+\bibitem{Lagorse2009}
+J.~Lagorse, M.~Simoes, A.~Miraoui, A multiagent fuzzy-logic-based energy
+  management of hybrid systems, Industry Applications, IEEE Transactions on
+  45~(6) (2009) 2123--2129.
+\newblock \href {http://dx.doi.org/10.1109/TIA.2009.2031786}
+  {\path{doi:10.1109/TIA.2009.2031786}}.
+
+\bibitem{Yoo2013BatteryControlMAS}
+C.-H. Yoo, I.-Y. Chung, H.-J. Lee, S.-S. Hong, Intelligent control of battery
+  energy storage for multi-agent based microgrid energy management, Energies
+  6~(10) (2013) 4956--4979.
+\newblock \href {http://dx.doi.org/10.3390/en6104956}
+  {\path{doi:10.3390/en6104956}}.
+
+\bibitem{Torriti2014PeopleOrMachines}
+J.~Torriti, People or machines? assessing the impacts of smart meters and load
+  controllers in italian office spaces, Energy for Sustainable Development 20
+  (2014) 86 -- 91.
+\newblock \href {http://dx.doi.org/http://dx.doi.org/10.1016/j.esd.2014.01.006}
+  {\path{doi:http://dx.doi.org/10.1016/j.esd.2014.01.006}}.
+
+\bibitem{Sorrell2015}
+S.~Sorrell, Reducing energy demand: A review of issues, challenges and
+  approaches, Renewable and Sustainable Energy Reviews 47~(0) (2015) 74 -- 82.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2015.03.002}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2015.03.002}}.
+
+\bibitem{Goulden2014}
+M.~Goulden, B.~Bedwell, S.~Rennick-Egglestone, T.~Rodden, A.~Spence, Smart
+  grids, smart users? the role of the user in demand side management, Energy
+  Research \& Social Science 2 (2014) 21 -- 29.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.erss.2014.04.008}
+  {\path{doi:http://dx.doi.org/10.1016/j.erss.2014.04.008}}.
+
+\bibitem{Raju2015}
+L.~Raju, S.~Sankar, R.~Milton, Distributed optimization of solar micro-grid
+  using multi agent reinforcement learning, Procedia Computer Science 46 (2015)
+  231 -- 239.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.procs.2015.02.016}
+  {\path{doi:http://dx.doi.org/10.1016/j.procs.2015.02.016}}.
+
+\bibitem{Zhang2013}
+D.~Zhang, N.~Shah, L.~G. Papageorgiou, Efficient energy consumption and
+  operation management in a smart building with microgrid, Energy Conversion
+  and Management 74 (2013) 209 -- 222.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.enconman.2013.04.038}
+  {\path{doi:http://dx.doi.org/10.1016/j.enconman.2013.04.038}}.
+
+\bibitem{Smitha2013}
+S.~Smitha, F.~Chacko, Intelligent energy management in smart and sustainable
+  buildings with multi-agent control system, in: Automation, Computing,
+  Communication, Control and Compressed Sensing (iMac4s), 2013 International
+  Multi-Conference on, 2013, pp. 190--195.
+\newblock \href {http://dx.doi.org/10.1109/iMac4s.2013.6526406}
+  {\path{doi:10.1109/iMac4s.2013.6526406}}.
+
+\bibitem{Mokhtar2013615}
+M.~Mokhtar, M.~Stables, X.~Liu, J.~Howe, Intelligent multi-agent system for
+  building heat distribution control with combined gas boilers and ground
+  source heat pump, Energy and Buildings 62~(0) (2013) 615 -- 626.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.enbuild.2013.03.045}
+  {\path{doi:http://dx.doi.org/10.1016/j.enbuild.2013.03.045}}.
+
+\bibitem{Abras2008}
+S.~Abras, S.~Pesty, S.~Ploix, M.~Jacomino, An anticipation mechanism for power
+  management in a smart home using multi-agent systems, in: Information and
+  Communication Technologies: From Theory to Applications, 2008. ICTTA 2008.
+  3rd International Conference on, 2008, pp. 1--6.
+\newblock \href {http://dx.doi.org/10.1109/ICTTA.2008.4530305}
+  {\path{doi:10.1109/ICTTA.2008.4530305}}.
+
+\bibitem{Prado2014}
+R.~S. Prado, R.~C.~P. Silva, O.~M. Neto, F.~G.~G. aes, D.~S. Sanches,
+  J.~ao~Bosco A. London~Jr., A.~C. Delbem, Differential evolution using
+  ancestor tree for service restoration in power distribution systems, Applied
+  Soft Computing 23 (2014) 498 -- 508.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.asoc.2014.06.005}
+  {\path{doi:http://dx.doi.org/10.1016/j.asoc.2014.06.005}}.
+
+\bibitem{Nagata2000}
+T.~Nagata, H.~Watanabe, M.~Ohno, H.~Sasaki, A multi-agent approach to power
+  system restoration, in: Power System Technology, 2000. Proceedings. PowerCon
+  2000. International Conference on, Vol.~3, 2000, pp. 1551--1556 vol.3.
+\newblock \href {http://dx.doi.org/10.1109/ICPST.2000.898202}
+  {\path{doi:10.1109/ICPST.2000.898202}}.
+
+\bibitem{Solanki2007}
+J.~Solanki, S.~Khushalani, N.~Schulz, A multi-agent solution to distribution
+  systems restoration, Power Systems, IEEE Transactions on 22~(3) (2007)
+  1026--1034.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2007.901280}
+  {\path{doi:10.1109/TPWRS.2007.901280}}.
+
+\bibitem{Pan2009}
+Y.-T. Pan, M.-S. Tsai, Development a bdi-based intelligent agent architecture
+  for distribution systems restoration planning, in: Intelligent System
+  Applications to Power Systems, 2009. ISAP '09. 15th International Conference
+  on, 2009, pp. 1--6.
+\newblock \href {http://dx.doi.org/10.1109/ISAP.2009.5352961}
+  {\path{doi:10.1109/ISAP.2009.5352961}}.
+
+\bibitem{Sairava2012MASGerenciamenteTopologica}
+F.~O. Saraiva, E.~N. Asada, Sistema multiagente aplicado ao gerenciamento
+  topol\'ogico de sistema el\'etricos de distribu\'i\c c\~ao inteligentes, in:
+  Anais do XIX Congresso Brasileiro de Autom\'atica -- CBA 2012., 2012, pp.
+  1490--1497.
+
+\bibitem{Leitao2009}
+P.~Leitao, P.~Valckenaers, E.~Adam, Self-adaptation for robustness and
+  cooperation in holonic multi-agent systems, in: A.~Hameurlain, J.~Küng,
+  R.~Wagner (Eds.), Transactions on Large-Scale Data- and Knowledge-Centered
+  Systems I, Vol. 5740 of Lecture Notes in Computer Science, Springer Berlin
+  Heidelberg, 2009, pp. 267--288.
+\newblock \href {http://dx.doi.org/10.1007/978-3-642-03722-1_11}
+  {\path{doi:10.1007/978-3-642-03722-1_11}}.
+
+\bibitem{Mohammadi2014}
+S.~Mohammadi, S.~Soleymani, B.~Mozafari, Scenario-based stochastic operation
+  management of microgrid including wind, photovoltaic, micro-turbine, fuel
+  cell and energy storage devices, International Journal of Electrical Power \&
+  Energy Systems 54~(0) (2014) 525 -- 535.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ijepes.2013.08.004}
+  {\path{doi:http://dx.doi.org/10.1016/j.ijepes.2013.08.004}}.
+
+\bibitem{Kuznetsova2015}
+E.~Kuznetsova, C.~Ruiz, Y.-F. Li, E.~Zio, Analysis of robust optimization for
+  decentralized microgrid energy management under uncertainty, International
+  Journal of Electrical Power \& Energy Systems 64 (2015) 815 -- 832.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ijepes.2014.07.064}
+  {\path{doi:http://dx.doi.org/10.1016/j.ijepes.2014.07.064}}.
+
+\bibitem{Alvarez2009OnlineMinRunningCostCFC}
+E.~Alvarez, A.~Lopez, J.~G\'omez-Aleixandre, N.~de~Abajo, On-line minimization
+  of running costs, greenhouse gas emissions and the impact of distributed
+  generation using microgrids on the electrical system, in: Sustainable
+  Alternative Energy (SAE), 2009 IEEE PES/IAS Conference on, 2009, pp. 1--10.
+\newblock \href {http://dx.doi.org/10.1109/SAE.2009.5534847}
+  {\path{doi:10.1109/SAE.2009.5534847}}.
+
+\bibitem{Kanchev2010SmartMonMG}
+H.~Kanchev, D.~Lu, B.~Francois, V.~Lazarov, Smart monitoring of a microgrid
+  including gas turbines and a dispatched pv-based active generator for energy
+  management and emissions reduction, in: Innovative Smart Grid Technologies
+  Conference Europe (ISGT Europe), 2010 IEEE PES, 2010, pp. 1--8.
+\newblock \href {http://dx.doi.org/10.1109/ISGTEUROPE.2010.5638875}
+  {\path{doi:10.1109/ISGTEUROPE.2010.5638875}}.
+
+\bibitem{Bousquet2004}
+F.~Bousquet, C.~L. Page, Multi-agent simulations and ecosystem management: a
+  review, Ecological Modelling 176~(3-4) (2004) 313 -- 332.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.ecolmodel.2004.01.011}
+  {\path{doi:http://dx.doi.org/10.1016/j.ecolmodel.2004.01.011}}.
+
+\bibitem{Hu2014}
+Z.~Hu, C.~Li, Y.~Cao, B.~Fang, L.~He, M.~Zhang, How smart grid contributes to
+  energy sustainability, Energy Procedia 61 (2014) 858 -- 861, international
+  Conference on Applied Energy, {ICAE2014}.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.egypro.2014.11.982}
+  {\path{doi:http://dx.doi.org/10.1016/j.egypro.2014.11.982}}.
+
+\bibitem{Huang2015}
+Z.~Huang, H.~Yu, Z.~Peng, M.~Zhao, Methods and tools for community energy
+  planning: A review, Renewable and Sustainable Energy Reviews 42~(0) (2015)
+  1335 -- 1348.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.rser.2014.11.042}
+  {\path{doi:http://dx.doi.org/10.1016/j.rser.2014.11.042}}.
+
+\bibitem{Pepermans2014ValuingSM}
+G.~Pepermans, Valuing smart meters, Energy Economics 45 (2014) 280 -- 294.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.eneco.2014.07.011}
+  {\path{doi:http://dx.doi.org/10.1016/j.eneco.2014.07.011}}.
+
+\bibitem{Perez2014DisagrgregationUsingSM}
+K.~X. Perez, W.~J. Cole, J.~D. Rhodes, A.~Ondeck, M.~Webber, M.~Baldea, T.~F.
+  Edgar, Nonintrusive disaggregation of residential air-conditioning loads from
+  sub-hourly smart meter data, Energy and Buildings 81 (2014) 316 -- 325.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.enbuild.2014.06.031}
+  {\path{doi:http://dx.doi.org/10.1016/j.enbuild.2014.06.031}}.
+
+\bibitem{Ball2012}
+M.~Ball, V.~Callaghan, A study of agent autonomy in intelligent environments,
+  Journal of Ambient Intelligence and Smart Environments 1~(0) (2012) 1 -- 38.
+
+\end{thebibliography}

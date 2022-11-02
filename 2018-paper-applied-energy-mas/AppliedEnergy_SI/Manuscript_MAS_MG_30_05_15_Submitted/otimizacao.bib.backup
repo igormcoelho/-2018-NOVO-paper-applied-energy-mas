@@ -1,0 +1,2650 @@
+@article{Karfopoulos2015,
+
+title = "A multi-agent system providing demand response services from residential consumers ",
+
+journal = "Electric Power Systems Research ",
+
+volume = "120",
+
+number = "0",
+
+pages = "163 - 176",
+
+year = "2015",
+
+note = "Smart Grids: World's Actual Implementations ",
+
+issn = "0378-7796",
+
+doi = "http://dx.doi.org/10.1016/j.epsr.2014.06.001",
+
+author = "E. Karfopoulos and L. Tena and A. Torres and Pep Salas and Joan Gil Jorda and A. Dimeas and N. Hatziargyriou",
+
+}
+
+
+
+@article{Hu2015,
+
+title = "A multi-agent system for distribution grid congestion management with electric vehicles ",
+
+journal = "Engineering Applications of Artificial Intelligence ",
+
+volume = "38",
+
+number = "0",
+
+pages = "45 - 58",
+
+year = "2015",
+
+note = "",
+
+issn = "0952-1976",
+
+doi = "http://dx.doi.org/10.1016/j.engappai.2014.10.017",
+
+author = "Junjie Hu and Arshad Saleem and Shi You and Lars Nordstrom and Morten Lind and Jacob Ostergaard",
+
+}
+
+
+
+@article{Leitao2012934,
+
+title = "Bio-inspired multi-agent systems for reconfigurable manufacturing systems ",
+
+journal = "Engineering Applications of Artificial Intelligence ",
+
+volume = "25",
+
+number = "5",
+
+pages = "934 - 944",
+
+year = "2012",
+
+note = "",
+
+issn = "0952-1976",
+
+doi = "http://dx.doi.org/10.1016/j.engappai.2011.09.025",
+
+author = "Paulo Leitão and José Barbosa and Damien Trentesaux",
+
+}
+
+
+@article{Rahman2014573,
+
+title = "Distributed multi-agent scheme for reactive power management with renewable energy ",
+
+journal = "Energy Conversion and Management ",
+
+volume = "88",
+
+number = "0",
+
+pages = "573 - 581",
+
+year = "2014",
+
+note = "",
+
+issn = "0196-8904",
+
+doi = "http://dx.doi.org/10.1016/j.enconman.2014.09.002",
+
+author = "M.S. Rahman and M.A. Mahmud and H.R. Pota and M.J. Hossain",
+
+}
+
+
+
+@article{Mokhtar2013615,
+
+title = "Intelligent multi-agent system for building heat distribution control with combined gas boilers and ground source heat pump ",
+
+journal = "Energy and Buildings ",
+
+volume = "62",
+
+number = "0",
+
+pages = "615 - 626",
+
+year = "2013",
+
+note = "",
+
+issn = "0378-7788",
+
+doi = "http://dx.doi.org/10.1016/j.enbuild.2013.03.045",
+
+author = "Maizura Mokhtar and Matthew Stables and Xiongwei Liu and Joe Howe",
+
+}
+
+@article{Dou2014,
+
+title = "Hierarchical management and control based on {MAS} for distribution grid via intelligent mode switching ",
+
+journal = "International Journal of Electrical Power \& Energy Systems ",
+
+volume = "54",
+
+pages = "352 - 366",
+
+year = "2014",
+
+note = "",
+
+issn = "0142-0615",
+
+doi = "http://dx.doi.org/10.1016/j.ijepes.2013.07.029",
+
+author = "Chun-xia Dou and Bin Liu",
+
+}
+
+@article{daRosa2012,
+
+title = "Multi-agent systems applied to reliability assessment of power systems ",
+
+journal = "International Journal of Electrical Power \& Energy Systems ",
+
+volume = "42",
+
+number = "1",
+
+pages = "367 - 374",
+
+year = "2012",
+
+note = "",
+
+issn = "0142-0615",
+
+doi = "http://dx.doi.org/10.1016/j.ijepes.2012.03.048",
+
+author = "Mauro A. da Rosa and Armando M. Leite da Silva and Vladimiro Miranda",
+
+}
+
+
+@article{Mbodji2014454,
+
+title = "Operation Optimal Dynamics of a Hybrid Electrical System: Multi-agent Approach ",
+
+journal = "Procedia Computer Science ",
+
+volume = "36",
+
+
+pages = "454 - 461",
+
+year = "2014",
+
+note = "Complex Adaptive Systems Philadelphia, \{PA\} November 3-5, 2014 ",
+
+issn = "1877-0509",
+
+doi = "http://dx.doi.org/10.1016/j.procs.2014.09.020",
+
+author = "Abdoul K. Mbodji and Mamadou L. Ndiaye and Mounirou Ndiaye and Papa A. Ndiaye",
+
+}
+
+@article{Velik2014,
+
+title = "A cognitive decision agent architecture for optimal energy management of microgrids ",
+
+journal = "Energy Conversion and Management ",
+
+volume = "86",
+
+pages = "831 - 847",
+
+year = "2014",
+
+note = "",
+
+issn = "0196-8904",
+
+doi = "http://dx.doi.org/10.1016/j.enconman.2014.06.047",
+
+author = "Rosemarie Velik and Pascal Nicolay",
+
+}
+
+@article{Wu2014,
+
+title = "A multi-agent-based energy-coordination control system for grid-connected large-scale wind -- photovoltaic energy storage power-generation units ",
+
+journal = "Solar Energy ",
+
+volume = "107",
+
+pages = "245 - 259",
+
+year = "2014",
+
+note = "",
+
+issn = "0038-092X",
+
+doi = "http://dx.doi.org/10.1016/j.solener.2014.05.012",
+
+author = "Kehe Wu and Huan Zhou",
+
+}
+
+@article{SkarvelisKazakos20131,
+
+title = "Implementing agent-based emissions trading for controlling Virtual Power Plant emissions ",
+
+journal = "Electric Power Systems Research ",
+
+volume = "102",
+
+pages = "1 - 7",
+
+year = "2013",
+
+note = "",
+
+issn = "0378-7796",
+
+doi = "http://dx.doi.org/10.1016/j.epsr.2013.04.004",
+
+author = "Spyros Skarvelis-Kazakos and Evangelos Rikos and Efstathia Kolentini and Liana M. Cipcigan and Nick Jenkins",
+
+}
+
+@article{Kahrobaee2014,
+
+title = "Multiagent study of smart grid customers with neighborhood electricity trading ",
+
+journal = "Electric Power Systems Research ",
+
+
+pages = "123 - 132",
+
+year = "2014",
+
+note = "",
+
+issn = "0378-7796",
+
+doi = "http://dx.doi.org/10.1016/j.epsr.2014.02.013",
+
+author = "Salman Kahrobaee and Rasheed A. Rajabzadeh and Leen-Kiat Soh and Sohrab Asgarpoor",
+
+}
+
+
+
+
+
+@article{Zhao2015,
+
+title = "An {MAS} based energy management system for a stand-alone microgrid at high altitude ",
+
+journal = "Applied Energy ",
+
+volume = "143",
+
+number = "0",
+
+pages = "251 - 261",
+
+year = "2015",
+
+note = "",
+
+issn = "0306-2619",
+
+doi = "http://dx.doi.org/10.1016/j.apenergy.2015.01.016",
+
+author = "Bo Zhao and Meidong Xue and Xuesong Zhang and Caisheng Wang and Junhui Zhao",
+
+}
+
+@article{Xiaoyan2012154,
+
+title = "Multi-Agent based Microgrid Coordinated Control ",
+
+journal = "Energy Procedia ",
+
+volume = "14",
+
+number = "0",
+
+pages = "154 - 159",
+
+year = "2012",
+
+note = "2011 2nd International Conference on Advances in Energy Engineering (ICAEE) ",
+
+issn = "1876-6102",
+
+doi = "http://dx.doi.org/10.1016/j.egypro.2011.12.911",
+
+author = "Zhou Xiaoyan and Liu Tianqi and Liu Xueping",
+
+}
+
+@article{Basak20125545,
+
+title = "A literature review on integration of distributed energy resources in the perspective of control, protection and stability of microgrid ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "16",
+
+number = "8",
+
+pages = "5545 - 5556",
+
+year = "2012",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2012.05.043",
+
+author = "Prasenjit Basak and S. Chowdhury and S. Halder nee Dey and S.P. Chowdhury",
+
+}
+
+@article{Dou2015,
+
+title = "MAS-based solution to energy management strategy of distributed generation system ",
+
+journal = "International Journal of Electrical Power \& Energy Systems ",
+
+volume = "69",
+
+number = "0",
+
+pages = "354 - 366",
+
+year = "2015",
+
+note = "",
+
+issn = "0142-0615",
+
+doi = "http://dx.doi.org/10.1016/j.ijepes.2015.01.026",
+
+author = "Chun-xia Dou and Wei-qian Wang and Da-Wei Hao and Xin-bin Li",
+
+}
+
+@incollection{Rivera2015269,
+
+title = "Chapter 15 - A Multi-Agent System Coordination Approach for Resilient Self-Healing Operations in Multiple Microgrids ",
+
+editor = "Karnouskos, Paulo Leit\~aoStamatis ",
+
+booktitle = "Industrial Agents ",
+
+publisher = "Morgan Kaufmann",
+
+edition = "",
+
+address = "Boston",
+
+year = "2015",
+
+pages = "269 - 285",
+
+isbn = "978-0-12-800341-1",
+
+doi = "http://dx.doi.org/10.1016/B978-0-12-800341-1.00015-2",
+
+author = "Sergio Rivera and Amro Farid and Kamal Youcef-Toumi",
+
+}
+
+@article{Logenthiran2011138,
+
+title = "Multi-agent system for energy resource scheduling of integrated microgrids in a distributed system ",
+
+journal = "Electric Power Systems Research ",
+
+volume = "81",
+
+number = "1",
+
+pages = "138 - 148",
+
+year = "2011",
+
+note = "",
+
+issn = "0378-7796",
+
+doi = "http://dx.doi.org/10.1016/j.epsr.2010.07.019",
+
+author = "T. Logenthiran and Dipti Srinivasan and Ashwin M. Khambadkone",
+
+keywords = "Multi-agent system",
+
+}
+
+
+@article{Battistelli201422,
+
+title = "Optimal management of the automatic generation control service in smart user grids including electric vehicles and distributed resources ",
+
+journal = "Electric Power Systems Research ",
+
+volume = "111",
+
+number = "0",
+
+pages = "22 - 31",
+
+year = "2014",
+
+note = "",
+
+issn = "0378-7796",
+
+doi = "http://dx.doi.org/10.1016/j.epsr.2014.01.008",
+
+author = "C. Battistelli and A.J. Conejo",
+
+}
+
+
+
+@INPROCEEDINGS{Merabet2014Applications,
+author={Merabet, G.H. and Essaaidi, M. and Talei, H. and Abid, M.R. and Khalil, N. and Madkour, M. and Benhaddou, D.},
+booktitle={Multimedia Computing and Systems (ICMCS), 2014 International Conference on},
+title={Applications of Multi-Agent Systems in Smart Grids: A survey},
+year={2014},
+month={April},
+pages={1088-1094},
+doi={10.1109/ICMCS.2014.6911384},
+}
+
+@article{Bousquet2004,
+
+title = "Multi-agent simulations and ecosystem management: a review",
+
+journal = "Ecological Modelling ",
+
+volume = "176",
+
+number = "3-4",
+
+pages = "313 - 332",
+
+year = "2004",
+
+note = "",
+
+issn = "0304-3800",
+
+doi = "http://dx.doi.org/10.1016/j.ecolmodel.2004.01.011",
+
+author = "F Bousquet and C Le Page",
+
+}
+
+
+
+@ARTICLE{Dimeas2005,
+author={Dimeas, A.L. and Hatziargyriou, N.D.},
+journal={Power Systems, IEEE Transactions on},
+title={Operation of a Multiagent System for Microgrid Control},
+year={2005},
+month={Aug},
+volume={20},
+number={3},
+pages={1447-1455},
+doi={10.1109/TPWRS.2005.852060},
+ISSN={0885-8950},}
+
+
+@article{Mendoza20061,
+
+title = "Multi-criteria decision analysis in natural resource management: A critical review of methods and new modelling paradigms ",
+
+journal = "Forest Ecology and Management ",
+
+volume = "230",
+
+number = "1 - 3",
+
+pages = "1 - 22",
+
+year = "2006",
+
+note = "",
+
+issn = "0378-1127",
+
+doi = "http://dx.doi.org/10.1016/j.foreco.2006.03.023",
+
+author = "G.A. Mendoza and H. Martins",
+
+}
+
+
+
+@article{Jiayi2008,
+
+title = "A review on distributed energy resources and MicroGrid ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "12",
+
+number = "9",
+
+pages = "2472 - 2483",
+
+year = "2008",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2007.06.004",
+
+author = "Huang Jiayi and Jiang Chuanwen and Xu Rong",
+
+}
+
+
+
+@INPROCEEDINGS{Logenthiran2008,
+author={Logenthiran, T. and Srinivasan, D. and Wong, D.},
+booktitle={Sustainable Energy Technologies, 2008. ICSET 2008. IEEE International Conference on},
+title={Multi-agent coordination for {DER} in MicroGrid},
+year={2008},
+month={Nov},
+pages={77-82},
+doi={10.1109/ICSET.2008.4746976},}
+
+@article{Zamora20102009,
+
+title = "Controls for microgrids with storage: Review, challenges, and research needs ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "14",
+
+number = "7",
+
+pages = "2009 - 2018",
+
+year = "2010",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2010.03.019",
+
+author = "Ramon Zamora and Anurag K. Srivastava",
+
+}
+
+
+
+@INPROCEEDINGS{Zheng2010,
+author={Wen-Di Zheng and Jin-Ding Cai},
+booktitle={Critical Infrastructure (CRIS), 2010 5th International Conference on},
+title={A multi-agent system for distributed energy resources control in microgrid},
+year={2010},
+month={Sept},
+pages={1-5},
+doi={10.1109/CRIS.2010.5617485},}
+
+@article{Jun2011,
+
+title = "A multi-agent solution to energy management in hybrid renewable energy generation system ",
+
+journal = "Renewable Energy ",
+
+volume = "36",
+
+number = "5",
+
+pages = "1352 - 1363",
+
+year = "2011",
+
+note = "",
+
+issn = "0960-1481",
+
+doi = "http://dx.doi.org/10.1016/j.renene.2010.11.032",
+
+author = "Zeng Jun and Liu Junfeng and Wu Jie and H.W. Ngan",
+
+}
+
+
+
+@article{Lagorse2010,
+
+title = "A multi-agent system for energy management of distributed power sources ",
+
+journal = "Renewable Energy ",
+
+volume = "35",
+
+number = "1",
+
+pages = "174 - 182",
+
+year = "2010",
+
+note = "",
+
+issn = "0960-1481",
+
+doi = "http://dx.doi.org/10.1016/j.renene.2009.02.029",
+
+author = "Jeremy Lagorse and Damien Paire and Abdellatif Miraoui",
+
+}
+
+
+
+@article{Lidula2011TestSystemMG,
+
+title = "Microgrids research: A review of experimental microgrids and test systems ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "15",
+
+number = "1",
+
+pages = "186 - 202",
+
+year = "2011",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2010.09.041",
+
+author = "N.W.A. Lidula and A.D. Rajapakse",
+
+}
+
+
+
+@article{Logenthiran2011,
+
+title = "Multi-agent system for energy resource scheduling of integrated microgrids in a distributed system ",
+
+journal = "Electric Power Systems Research ",
+
+volume = "81",
+
+number = "1",
+
+pages = "138 - 148",
+
+year = "2011",
+
+note = "",
+
+issn = "0378-7796",
+
+doi = "http://dx.doi.org/10.1016/j.epsr.2010.07.019",
+
+author = "T. Logenthiran and Dipti Srinivasan and Ashwin M. Khambadkone",
+
+}
+
+
+
+@article{Pipattanasomporn2012166,
+
+title = "Securing critical loads in a PV-based microgrid with a multi-agent system ",
+
+journal = "Renewable Energy ",
+
+volume = "39",
+
+number = "1",
+
+pages = "166 - 174",
+
+year = "2012",
+
+note = "",
+
+issn = "0960-1481",
+
+doi = "http://dx.doi.org/10.1016/j.renene.2011.07.049",
+
+author = "Manisa Pipattanasomporn and Hassan Feroze and Saifur Rahman",
+
+}
+
+
+
+@ARTICLE{Olivares2014TrendsMG,
+
+author={Olivares, D.E. and Mehrizi-Sani, A. and Etemadi, A.H. and Canizares, C.A. and Iravani, R. and Kazerani, M. and Hajimiragha, A.H. and Gomis-Bellmunt, O. and Saeedifard, M. and Palma-Behnke, R. and Jimenez-Estevez, G.A. and Hatziargyriou, N.D.},
+
+journal={Smart Grid, IEEE Transactions on},
+
+title={Trends in Microgrid Control},
+
+year={2014},
+
+month={July},
+
+volume={5},
+
+number={4},
+
+pages={1905-1919},
+
+doi={10.1109/TSG.2013.2295514},
+
+ISSN={1949-3053},}
+
+@article{Iqbal2014640,
+
+title = "Optimization classification, algorithms and tools for renewable energy: A review ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "39",
+
+number = "0",
+
+pages = "640 - 654",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.07.120",
+
+author = "M. Iqbal and M. Azam and M. Naeem and A.S. Khwaja and A. Anpalagan",
+
+}
+
+
+
+@article{Mahmoud20142822,
+
+title = "Modeling and control of microgrid: An overview ",
+
+journal = "Journal of the Franklin Institute ",
+
+volume = "351",
+
+number = "5",
+
+pages = "2822 - 2859",
+
+year = "2014",
+
+note = "",
+
+issn = "0016-0032",
+
+doi = "http://dx.doi.org/10.1016/j.jfranklin.2014.01.016",
+
+author = "M.S. Mahmoud and S. Azher Hussain and M.A. Abido",
+
+}
+
+
+@article{Fathima2015431,
+
+title = "Optimization in microgrids with hybrid energy systems -- A review ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "45",
+
+number = "0",
+
+pages = "431 - 446",
+
+year = "2015",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2015.01.059",
+
+author = "A. Hina Fathima and K. Palanisamy",
+
+}
+
+
+
+@incollection{Rivera2015269,
+
+title = "Chapter 15 - A Multi-Agent System Coordination Approach for Resilient Self-Healing Operations in Multiple Microgrids ",
+
+editor = "Karnouskos, Paulo LeitãoStamatis ",
+
+booktitle = "Industrial Agents ",
+
+publisher = "Morgan Kaufmann",
+
+edition = "",
+
+address = "Boston",
+
+year = "2015",
+
+pages = "269 - 285",
+
+isbn = "978-0-12-800341-1",
+
+doi = "http://dx.doi.org/10.1016/B978-0-12-800341-1.00015-2",
+
+author = "Sergio Rivera and Amro Farid and Kamal Youcef-Toumi",
+
+}
+
+
+
+@article{Rahman2015MASTransientStabilitySG,
+
+title = "A multi-agent approach for enhancing transient stability of smart grids ",
+
+journal = "International Journal of Electrical Power \& Energy Systems ",
+
+volume = "67",
+
+number = "0",
+
+pages = "488 - 500",
+
+year = "2015",
+
+note = "",
+
+issn = "0142-0615",
+
+doi = "http://dx.doi.org/10.1016/j.ijepes.2014.12.038",
+
+author = "M.S. Rahman and M.A. Mahmud and H.R. Pota and M.J. Hossain",
+
+}
+
+
+
+
+@INPROCEEDINGS{Rogers2012-Challenges,
+
+  author = {A. Rogers and S. D. Ramchurn and N. R. Jennings},
+
+  title = {Challenges for autonomous agents and multi-agent systems research},
+
+  booktitle = {Twenty-Sixth AAAI Conference on Artificial Intelligence
+
+(AAAI-12)},
+
+  year = {2012},
+
+  pages = {2166-2172},
+
+  address = {Toronto, CA}
+
+}
+
+@ARTICLE{Nguyen2012AgentBasedRestorationSG,
+author={Nguyen, C.P. and Flueck, A.J.},
+journal={Smart Grid, IEEE Transactions on},
+title={Agent Based Restoration With Distributed Energy Storage Support in Smart Grids},
+year={2012},
+month={June},
+volume={3},
+number={2},
+pages={1029-1038},
+keywords={distributed algorithms;fault location;multi-agent systems;power engineering computing;power grids;power system restoration;IEEE 34 node test feeder;agent based restoration;distributed algorithm;distributed energy storage agent;distributed energy storage support;fault detection;fault isolation;fault location;intelligent agent;islanding coordination;load priority restoration;multiple distributed energy storage;service restoration;smart grids;switch agent;Batteries;Discharges;Smart grids;Switches;Voltage control;Active network management;advanced distribution automation;distributed energy storage;islanded operation;islanding coordination;multiagent systems;priority load restoration;smart grid},
+doi={10.1109/TSG.2012.2186833},
+ISSN={1949-3053},}
+
+
+@article{Ellabban2014,
+
+title = "Renewable energy resources: Current status, future prospects and their enabling technology ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "39",
+
+number = "0",
+
+pages = "748 - 764",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.07.113",
+
+author = "Omar Ellabban and Haitham Abu-Rub and Frede Blaabjerg",
+
+keywords = "Biomass energy",
+
+keywords = "Geothermal energy",
+
+keywords = "Hydropower energy",
+
+keywords = "Marine energy",
+
+keywords = "Solar energy",
+
+keywords = "Wind energy",
+
+keywords = "Smart grid ",
+
+}
+
+
+
+@article{McHenry2013,
+
+title = "Technical and governance considerations for advanced metering infrastructure/smart meters: Technology, security, uncertainty, costs, benefits, and risks ",
+
+journal = "Energy Policy ",
+
+volume = "59",
+
+pages = "834 - 842",
+
+year = "2013",
+
+issn = "0301-4215",
+
+doi = "http://dx.doi.org/10.1016/j.enpol.2013.04.048",
+
+author = "Mark P. McHenry",
+
+}
+
+
+
+@article{Batista2013,
+title = "Photovoltaic and wind energy systems monitoring and building/home energy management using ZigBee devices within a smart grid ",
+journal = "Energy ",
+volume = "49",
+pages = "306 - 315",
+year = "2013",
+issn = "0360-5442",
+doi = "http://dx.doi.org/10.1016/j.energy.2012.11.002",
+author = "N.C. Batista and R. Mel\'icio and J.C.O. Matias and J.P.S. Catal\~ao",
+}
+
+@INPROCEEDINGS{Coelho2014WCCI,
+author={Coelho, V.N. and Guimaraes, F.G. and Reis, A.J.R. and Coelho, I.M. and Coelho, B.N. and Souza, M.J.F.},
+booktitle={Fuzzy Systems (FUZZ-IEEE), 2014 IEEE International Conference on},
+title={A heuristic fuzzy algorithm bio-inspired by Evolution Strategies for energy forecasting problems},
+year={2014},
+month={July},
+pages={338-345},
+doi={10.1109/FUZZ-IEEE.2014.6891794}
+}
+
+
+
+@article{purnomo2005developing,
+title = "Developing multi-stakeholder forest management scenarios: a multi-agent system simulation approach applied in Indonesia ",
+
+journal = "Forest Policy and Economics ",
+
+volume = "7",
+
+number = "4",
+
+pages = "475 - 491",
+
+year = "2005",
+
+note = "",
+
+issn = "1389-9341",
+
+doi = "http://dx.doi.org/10.1016/j.forpol.2003.08.004",
+
+author = "Herry Purnomo and Guillermo A. Mendoza and Ravi Prabhu and Yurdi Yasmi",
+
+}
+
+
+
+
+@ARTICLE{Levron2013,
+author={Levron, Y. and Guerrero, J.M. and Beck, Y.},
+journal={Power Systems, IEEE Transactions on},
+title={Optimal Power Flow in Microgrids With Energy Storage},
+year={2013},
+month={Aug},
+volume={28},
+number={3},
+pages={3226-3234},
+}
+
+
+@article{Roche2013,
+
+title = "A flexible and efficient multi-agent gas turbine power plant energy management system with economic and environmental constraints ",
+
+journal = "Applied Energy ",
+
+volume = "101",
+
+number = "0",
+
+pages = "644 - 654",
+
+year = "2013",
+
+note = "Sustainable Development of Energy, Water and Environment Systems ",
+
+issn = "0306-2619",
+
+doi = "http://dx.doi.org/10.1016/j.apenergy.2012.07.011",
+
+author = "Robin Roche and Lhassane Idoumghar and Siddharth Suryanarayanan and Mounir Daggag and Christian-Anghel Solacolu and Abdellatif Miraoui",
+
+}
+
+
+
+@Article{Dou2014HybridMASMGControl,
+AUTHOR = {Dou, Xiaobo and Quan, Xiangjun and Wu, Zaijun and Hu, Minqiang and Yang, Kang and Yuan, Jian and Wang, Mengmeng},
+TITLE = {Hybrid Multi-Agent Control in Microgrids: Framework,  Models and Implementations Based on {IEC} 61850},
+JOURNAL = {Energies},
+VOLUME = {8},
+YEAR = {2014},
+NUMBER = {1},
+PAGES = {31--58},
+ISSN = {1996-1073},
+DOI = {10.3390/en8010031}
+}
+
+
+
+
+
+
+
+
+@article{RigoMariani2014,
+
+title = "Optimal power dispatching strategies in smart-microgrids with storage ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "40",
+
+number = "0",
+
+pages = "649 - 658",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.07.138",
+
+author = "Rémy Rigo-Mariani and Bruno Sareni and Xavier Roboam and Christophe Turpin",
+
+}
+
+
+@article{Mohammadi2014,
+
+title = "Scenario-based stochastic operation management of MicroGrid including Wind, Photovoltaic, Micro-Turbine, Fuel Cell and Energy Storage Devices ",
+
+journal = "International Journal of Electrical Power \& Energy Systems ",
+
+volume = "54",
+
+number = "0",
+
+pages = "525 - 535",
+
+year = "2014",
+
+note = "",
+
+issn = "0142-0615",
+
+doi = "http://dx.doi.org/10.1016/j.ijepes.2013.08.004",
+
+author = "Sirus Mohammadi and Soodabeh Soleymani and Babak Mozafari",
+
+}
+
+@article{Ibri2012,
+
+title = "A multi-agent approach for integrated emergency vehicle dispatching and covering problem ",
+
+journal = "Engineering Applications of Artificial Intelligence ",
+
+volume = "25",
+
+number = "3",
+
+pages = "554 - 565",
+
+year = "2012",
+
+note = "",
+
+issn = "0952-1976",
+
+doi = "http://dx.doi.org/10.1016/j.engappai.2011.10.003",
+
+author = "Sarah Ibri and Mustapha Nourelfath and Habiba Drias",
+
+}
+
+
+
+@Patent{goldsmith2012computingPatent,
+ author={Goldsmith, S.Y.},
+  url={http://google.com/patents/WO2012078433A2?cl=en},
+ title = {Computing architecture for autonomous microgrids },
+ year = {2012},
+ month = {06},
+ day = {14},
+ number = {US 20120143385},
+ type = {Patent},
+  publisher={Google Patents},
+  note={ {WO} Patent App. PCT/US2011/062,717}
+}
+
+@Patent{SAMPIGETHAYA2012,
+ author={SAMPIGETHAYA RADHAKRISHNA G},
+  url={http://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20130808&DB=&locale=en_EP&CC=WO&NR=2013115936A1&KC=A1&ND=1},
+ title = {METHODS AND SYSTEMS FOR CYBER-PHYSICAL SECURITY MODELING, SIMULATION AND ARCHITECTURE FOR THE SMART GRID},
+ year = {2013},
+  month = {08},
+ day = {1},
+ number = {US 2013/0198847 A1},
+ type = {Patent},
+}
+
+@article{Kuznetsova2014,
+
+title = "An integrated framework of agent-based modelling and robust optimization for microgrid energy management ",
+
+journal = "Applied Energy ",
+
+volume = "129",
+
+number = "0",
+
+pages = "70 - 88",
+
+year = "2014",
+
+note = "",
+
+issn = "0306-2619",
+
+doi = "http://dx.doi.org/10.1016/j.apenergy.2014.04.024",
+
+author = "Elizaveta Kuznetsova and Yan-Fu Li and Carlos Ruiz and Enrico Zio",
+
+}
+
+
+
+@article{Fadaeenejad2014,
+
+title = "The present and future of smart power grid in developing countries ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "29",
+
+number = "0",
+
+pages = "828 - 834",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2013.08.072",
+
+author = "M. Fadaeenejad and A.M. Saberian and Mohd. Fadaee and M.A.M. Radzi and H. Hizam and M.Z.A. AbKadir",
+
+}
+
+
+
+@article{Pereira2012,
+
+title = "The renewable energy market in Brazil: Current status and potential ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "16",
+
+number = "6",
+
+pages = "3786 - 3802",
+
+year = "2012",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2012.03.024",
+
+author = "Marcio Giannini Pereira and Cristiane Farias Camacho and Marcos Aurélio Vasconcelos Freitas and Neilton Fidelis da Silva",
+
+}
+
+
+
+@article{Tugcu2012,
+
+title = "Renewable and non-renewable energy consumption and economic growth relationship revisited: Evidence from {G7} countries ",
+
+journal = "Energy Economics ",
+
+volume = "34",
+
+number = "6",
+
+pages = "1942 - 1950",
+
+year = "2012",
+
+note = "",
+
+issn = "0140-9883",
+
+doi = "http://dx.doi.org/10.1016/j.eneco.2012.08.021",
+
+author = "Can Tansel Tugcu and Ilhan Ozturk and Alper Aslan",
+
+}
+
+
+
+@article{Diaz2013,
+
+title = "Evolution of Production and the Efficient Location of Renewable Energies. The Case of China ",
+
+journal = "Energy Procedia ",
+
+volume = "40",
+
+number = "0",
+
+pages = "15 - 24",
+
+year = "2013",
+
+note = "European Geosciences Union General Assembly 2013, \{EGUDivision\} Energy, Resources \&amp; the Environment, \{ERE\} ",
+
+issn = "1876-6102",
+
+doi = "http://dx.doi.org/10.1016/j.egypro.2013.08.003",
+
+author = "Paula D\'iaz and Joan Mas\'o",
+
+}
+
+
+
+@article{Pao2013,
+
+title = "Renewable energy, non-renewable energy and economic growth in Brazil ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "25",
+
+number = "0",
+
+pages = "381 - 392",
+
+year = "2013",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2013.05.004",
+
+author = "Hsiao-Tien Pao and Hsin-Chia Fu",
+
+}
+
+
+
+@article{PereiraJr2013,
+
+title = "Perspectives for the expansion of new renewable energy sources in Brazil ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "23",
+
+number = "0",
+
+pages = "49 - 59",
+
+year = "2013",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2013.02.020",
+
+author = "Amaro Olimpio Pereira Jr and Ricardo Cunha da Costa and Cl\'audia do Vale Costa and Juliana de Moraes Marreco and Emílio L\`ebre La Rovere",
+
+}
+
+
+
+@article{AlemanNava2014Mexico,
+
+title = "Renewable energy research progress in Mexico: A review ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "32",
+
+number = "0",
+
+pages = "140 - 153",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.01.004",
+
+author = "Gibr\'an S. Alem\'an-Nava and Victor H. Casiano-Flores and Diana L. C\'ardenas-Chávez and Roc\'io D\'iaz-Chavez and Nicolae Scarlat and Jürgen Mahlknecht and Jean-Francois Dallemand and Roberto Parra",
+
+}
+
+
+
+@article{Yuan2014,
+
+title = "Smart grids in China ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "37",
+
+number = "0",
+
+pages = "896 - 906",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.05.051",
+
+author = "Jiahai Yuan and Jiakun Shen and Li Pan and Changhong Zhao and Junjie Kang",
+
+}
+
+
+
+@article{Lin2013,
+
+title = "A comparison of innovation policy in the smart grid industry across the pacific: China and the \{USA\} ",
+
+journal = "Energy Policy ",
+
+volume = "57",
+
+number = "0",
+
+pages = "119 - 132",
+
+year = "2013",
+
+note = "",
+
+issn = "0301-4215",
+
+doi = "http://dx.doi.org/10.1016/j.enpol.2012.12.028",
+
+author = "Chen-Chun Lin and Chia-Han Yang and Joseph Z. Shyua",
+
+}
+
+
+
+@article{Acharjee2013,
+
+title = "Strategy and implementation of Smart Grids in India ",
+
+journal = "Energy Strategy Reviews ",
+
+volume = "1",
+
+number = "3",
+
+pages = "193 - 204",
+
+year = "2013",
+
+note = "Future Energy Systems and Market Integration of Wind Power ",
+
+issn = "2211-467X",
+
+doi = "http://dx.doi.org/10.1016/j.esr.2012.05.003",
+
+author = "P. Acharjee",
+
+}
+
+
+
+@article{Welsch2013,
+
+title = "Smart and Just Grids for sub-Saharan Africa: Exploring options ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "20",
+
+number = "0",
+
+pages = "336 - 352",
+
+year = "2013",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2012.11.004",
+
+author = "Manuel Welsch and Morgan Bazilian and Mark Howells and Deepak Divan and David Elzinga and Goran Strbac and Lawrence Jones and Andrew Keane and Dolf Gielen and V.S.K. Murthy Balijepalli and Abeeku Brew-Hammond and Kandeh Yumkella",
+
+}
+
+
+
+@article{Chen2013,
+
+title = "Economic analysis and optimal energy management models for microgrid systems: A case study in Taiwan ",
+
+journal = "Applied Energy ",
+
+volume = "103",
+
+number = "0",
+
+pages = "145 - 154",
+
+year = "2013",
+
+note = "",
+
+issn = "0306-2619",
+
+doi = "http://dx.doi.org/10.1016/j.apenergy.2012.09.023",
+
+author = "Yen-Haw Chen and Su-Ying Lu and Yung-Ruei Chang and Ta-Tung Lee and Ming-Che Hu",
+
+}
+
+
+
+@article{Zhang2015,
+
+title = "A comprehensive analysis of energy management strategies for hybrid electric vehicles based on bibliometrics ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "48",
+
+number = "0",
+
+pages = "88 - 104",
+
+year = "2015",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2015.03.093",
+
+author = "Pei Zhang and Fuwu Yan and Changqing Du",
+
+}
+
+
+
+@article{Sorrell2015,
+
+title = "Reducing energy demand: A review of issues, challenges and approaches ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "47",
+
+number = "0",
+
+pages = "74 - 82",
+
+year = "2015",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2015.03.002",
+
+author = "Steve Sorrell",
+
+}
+
+
+
+@article{Huang2015,
+
+title = "Methods and tools for community energy planning: A review ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "42",
+
+number = "0",
+
+pages = "1335 - 1348",
+
+year = "2015",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.11.042",
+
+
+author = "Zishuo Huang and Hang Yu and Zhenwei Peng and Mei Zhao",
+
+}
+
+
+
+@Article{Xiao2010,
+AUTHOR = {Xiao, Zhe and Li, Tinghua and Huang, Ming and Shi, Jihong and Yang, Jingjing and Yu, Jiang and Wu, Wei},
+TITLE = {Hierarchical MAS Based Control Strategy for Microgrid},
+JOURNAL = {Energies},
+VOLUME = {3},
+YEAR = {2010},
+NUMBER = {9},
+PAGES = {1622--1638},
+ISSN = {1996-1073},
+DOI = {10.3390/en3091622}
+}
+
+
+
+@Article{Yoo2013BatteryControlMAS,
+AUTHOR = {Yoo, Cheol-Hee and Chung, Il-Yop and Lee, Hak-Ju and Hong, Sung-Soo},
+TITLE = {Intelligent Control of Battery Energy Storage for Multi-Agent Based Microgrid Energy Management},
+JOURNAL = {Energies},
+VOLUME = {6},
+YEAR = {2013},
+NUMBER = {10},
+PAGES = {4956--4979},
+ISSN = {1996-1073},
+DOI = {10.3390/en6104956}
+}
+
+
+
+
+@Article{Gomez2014ReviewMGFromMASUse,
+AUTHOR = {Gomez-Sanz, Jorge J. and Garcia-Rodriguez, Sandra and Cuartero-Soler, Nuria and Hernandez-Callejo, Luis},
+TITLE = {Reviewing Microgrids from a Multi-Agent Systems Perspective},
+JOURNAL = {Energies},
+VOLUME = {7},
+YEAR = {2014},
+NUMBER = {5},
+PAGES = {3355--3382},
+ISSN = {1996-1073},
+DOI = {10.3390/en7053355}
+}
+
+
+
+
+@Article{Kim2010LoadSheddingMAS,
+AUTHOR = {Kim, Hak-Man and Kinoshita, Tetsuo and Lim, Yujin and Kim, Tai-Hoon},
+TITLE = {A Bankruptcy Problem Approach to Load-shedding in Multiagent-based Microgrid Operation},
+JOURNAL = {Sensors},
+VOLUME = {10},
+YEAR = {2010},
+NUMBER = {10},
+PAGES = {8888--8898},
+ISSN = {1424-8220},
+DOI = {10.3390/s101008888}
+}
+
+
+
+
+
+@article{Hall2014,
+
+title = "Values in the Smart Grid: The co-evolving political economy of smart distribution ",
+
+journal = "Energy Policy ",
+
+volume = "74",
+
+number = "0",
+
+pages = "600 - 609",
+
+year = "2014",
+
+note = "",
+
+issn = "0301-4215",
+
+doi = "http://dx.doi.org/10.1016/j.enpol.2014.08.018",
+
+author = "Stephen Hall and Timothy J. Foxon",
+
+}
+
+
+
+@article{Dimitrios2015UKSGDevelopment,
+
+title = "{UK} smart grid development: An expert assessment of the benefits, pitfalls and functions ",
+
+journal = "Renewable Energy ",
+
+volume = "81",
+
+number = "0",
+
+pages = "89 - 102",
+
+year = "2015",
+
+note = "",
+
+issn = "0960-1481",
+
+doi = "http://dx.doi.org/10.1016/j.renene.2015.03.016",
+
+author = "Dimitrios Xenias and Colin J. Axon and Lorraine Whitmarsh and Peter M. Connor and Nazmiye Balta-Ozkan and Alexa Spence",
+
+}
+
+
+
+
+
+
+
+
+@article{Ramachandran2013,
+title = "Intelligent power management in micro grids with {EV} penetration ",
+journal = "Expert Systems with Applications ",
+volume = "40",
+number = "16",
+pages = "6631 - 6640",
+year = "2013",
+issn = "0957-4174",
+doi = "http://dx.doi.org/10.1016/j.eswa.2013.06.007",
+author = "Bhuvaneswari Ramachandran and Sanjeev K. Srivastava and David A. Cartes",
+
+}
+
+
+@article {JimenoArchitectureMG2011,
+author = {Jimeno, Joseba and Anduaga, Jon and Oyarzabal, José and de Muro, Asier Gil},
+title = {Architecture of a microgrid energy management system},
+journal = {European Transactions on Electrical Power},
+volume = {21},
+number = {2},
+publisher = {John Wiley & Sons, Ltd.},
+issn = {1546-3109},
+url = {http://dx.doi.org/10.1002/etep.443},
+doi = {10.1002/etep.443},
+pages = {1142--1158},
+keywords = {microgrid, energy management system, secondary control, multi-agent systems, distributed energy resources},
+year = {2011},
+}
+
+@INPROCEEDINGS{Sairava2012MASGerenciamenteTopologica,
+author={Saraiva, F. O. and Asada, E. N.},
+booktitle={Anais do XIX Congresso Brasileiro de Autom\'atica -- CBA 2012.},
+title={SISTEMA MULTIAGENTE APLICADO AO GERENCIAMENTO TOPOL\'OGICO DE SISTEMA EL\'ETRICOS DE DISTRIBU\'I\c C\~AO INTELIGENTES},
+year={2012},
+pages={1490-1497},
+issn = "978-85-8001-069-5",
+
+}
+
+@book{Wooldridge2009MASIntroduc,
+  author    = {Michael Wooldridge}, 
+  title     = {An Introduction to MultiAgent Systems},
+  publisher = {John Wiley \& Sons},
+  year      = 2009,
+  edition   = 2,
+  isbn      = {0470519460}
+}
+
+@INPROCEEDINGS{Brown2008,
+author={Brown, R.E.},
+booktitle={Power and Energy Society General Meeting - Conversion and Delivery of Electrical Energy in the 21st Century, 2008 IEEE},
+title={Impact of Smart Grid on distribution system design},
+year={2008},
+month={July},
+pages={1-4},
+doi={10.1109/PES.2008.4596843},
+ISSN={1932-5517},}
+
+@TECHREPORT{SGVisionReportEuropeanComission2006,
+  AUTHOR =        {European Commission},
+  TITLE =         {Smart Grids -- Vision and Strategy for Europe's Electricity Networks of the Future},
+  NUMBER =        {EUR 22040},
+  INSTITUTION =   {European Commission},
+  YEAR  =         {2006},
+  ISSN={92-79-01414-5},
+}
+
+@article{Xenias2015,
+title = "{UK} smart grid development: An expert assessment of the benefits, pitfalls and functions ",
+journal = "Renewable Energy ",
+volume = "81",
+number = "0",
+pages = "89 - 102",
+year = "2015",
+issn = "0960-1481",
+doi = "http://dx.doi.org/10.1016/j.renene.2015.03.016",
+author = "Dimitrios Xenias and Colin J. Axon and Lorraine Whitmarsh and Peter M. Connor and Nazmiye Balta-Ozkan and Alexa Spence",}
+
+
+@article{Staffell2014,
+title = "How does wind farm performance decline with age? ",
+journal = "Renewable Energy ",
+volume = "66",
+number = "0",
+pages = "775 - 786",
+year = "2014",
+issn = "0960-1481",
+doi = "http://dx.doi.org/10.1016/j.renene.2013.10.041",
+author = "Iain Staffell and Richard Green",
+}
+
+
+@article{Tabrizi2015,
+title = "Rooftop wind monitoring campaigns for small wind turbine applications: Effect of sampling rate and averaging period "
+journal = "Renewable Energy ",
+volume = "77",
+pages = "320 - 330",
+year = "2015",
+issn = "0960-1481",
+doi = "http://dx.doi.org/10.1016/j.renene.2014.12.037",
+author = "Amir Bashirzadeh Tabrizi and Jonathan Whale and Thomas Lyons and Tania Urmee",
+}
+
+
+@article{Sarralde2015,
+title = "Solar energy and urban morphology: Scenarios for increasing the renewable energy potential of neighbourhoods in London ",
+journal = "Renewable Energy ",
+volume = "73",
+pages = "10 - 17",
+year = "2015",
+note = "Sustainable Development in Building and Environment (SuDBE) 2013 ",
+issn = "0960-1481",
+doi = "http://dx.doi.org/10.1016/j.renene.2014.06.028",
+author = "Juan José Sarralde and David James Quinn and Daniel Wiesmann and Koen Steemers",
+}
+
+
+@article{Ederer2015Offshore,
+title = "Evaluating capital and operating cost efficiency of offshore wind farms: A {DEA} approach ",
+journal = "Renewable and Sustainable Energy Reviews ",
+volume = "42",
+pages = "1034 - 1046",
+year = "2015",
+issn = "1364-0321",
+doi = "http://dx.doi.org/10.1016/j.rser.2014.10.071",
+author = "Nikolaus Ederer",
+}
+
+
+@article{Mahmood2014,
+title = "Pakistan's overall energy potential assessment, comparison of LNG, {TAPI} and {IPI} gas projects ",
+journal = "Renewable and Sustainable Energy Reviews ",
+volume = "31",
+number = "0",
+pages = "182 - 193",
+year = "2014",
+issn = "1364-0321",
+doi = "http://dx.doi.org/10.1016/j.rser.2013.11.047",
+author = "Anzar Mahmood and Nadeem Javaid and Adnan Zafar and Raja Ali Riaz and Saeed Ahmed and Sohail Razzaq",
+}
+
+@article{Ball2012,
+title = "A study of Agent Autonomy in Intelligent Environments",
+journal = "Journal of Ambient Intelligence and Smart Environments",
+volume = "1",
+number = "0",
+pages = "1 - 38",
+year = "2012",
+issn = "1876-1364",
+author = "Matthew Ball and Vic Callaghan",
+}
+
+
+
+@ARTICLE{Farhangi2010,
+author={Farhangi, H.},
+journal={Power and Energy Magazine, IEEE},
+title={The path of the smart grid},
+year={2010},
+month={January},
+volume={8},
+number={1},
+pages={18-28},
+doi={10.1109/MPE.2009.934876},
+ISSN={1540-7977},}
+
+
+@INPROCEEDINGS{Pipattanasomporn2009,
+author={Pipattanasomporn, M. and Feroze, H. and Rahman, S.},
+booktitle={Power Systems Conference and Exposition, 2009. PSCE '09. IEEE/PES},
+title={Multi-agent systems in a distributed smart grid: Design and implementation},
+year={2009},
+month={March},
+pages={1-8},
+doi={10.1109/PSCE.2009.4840087}
+}
+
+@incollection{Pavon2003INGENIAS,
+year={2003},
+isbn={978-3-540-40450-7},
+booktitle={Multi-Agent Systems and Applications III},
+volume={2691},
+series={Lecture Notes in Computer Science},
+doi={10.1007/3-540-45023-8_38},
+title={Agent Oriented Software Engineering with INGENIAS},
+publisher={Springer Berlin Heidelberg},
+author={Pav\'on, Juan and Gómez-Sanz, Jorge},
+pages={394-403}
+}
+
+@ARTICLE{McArthur2007a,
+author={McArthur, S.D.J. and Davidson, E.M. and Catterson, V.M. and Dimeas, A.L. and Hatziargyriou, N.D. and Ponci, F. and Funabashi, T.},
+journal={Power Systems, IEEE Transactions on},
+title={Multi-Agent Systems for Power Engineering Applications -- Part I: Concepts, Approaches, and Technical Challenges},
+year={2007},
+month={Nov},
+volume={22},
+number={4},
+pages={1743-1752},
+doi={10.1109/TPWRS.2007.908471},
+ISSN={0885-8950},
+}
+
+@ARTICLE{McArthur2007b,
+author={McArthur, S.D.J. and Davidson, E.M. and Catterson, V.M. and Dimeas, A.L. and Hatziargyriou, N.D. and Ponci, F. and Funabashi, T.},
+journal={Power Systems, IEEE Transactions on},
+title={Multi-Agent Systems for Power Engineering Applications 2014 -- Part II: Technologies, Standards, and Tools for Building Multi-agent Systems},
+year={2007},
+month={Nov},
+volume={22},
+number={4},
+pages={1753-1759},
+keywords={multi-agent systems;power engineering;multiagent systems;power engineering applications;Acceleration;Appropriate technology;Design engineering;Design methodology;Multiagent systems;Power & Energy Society;Power engineering;Power engineering and energy;Power industry;Systems engineering and theory;Multi-agent systems},
+doi={10.1109/TPWRS.2007.908472},
+ISSN={0885-8950},}
+
+@inproceedings{Bellifemine2001JADE,
+ author = {Bellifemine, Fabio and Poggi, Agostino and Rimassa, Giovanni},
+ title = {JADE: A FIPA2000 Compliant Agent Development Environment},
+ booktitle = {Proceedings of the Fifth International Conference on Autonomous Agents},
+ year = {2001},
+ isbn = {1-58113-326-X},
+ location = {Montreal, Quebec, Canada},
+ pages = {216--217},
+ numpages = {2},
+ doi = {10.1145/375735.376120},
+ acmid = {376120},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
+
+
+@article{McHenry2013,
+
+title = "Technical and governance considerations for advanced metering infrastructure/smart meters: Technology, security, uncertainty, costs, benefits, and risks ",
+
+journal = "Energy Policy ",
+
+volume = "59",
+
+pages = "834 - 842",
+
+year = "2013",
+
+issn = "0301-4215",
+
+doi = "http://dx.doi.org/10.1016/j.enpol.2013.04.048",
+
+author = "Mark P. McHenry",
+
+}
+
+
+
+@article{Manchester2015RegenerativeAirEneStorage,
+
+title = "Regenerative air energy storage for remote wind-diesel micro-grid communities ",
+
+journal = "Applied Energy ",
+
+volume = "137",
+
+number = "0",
+
+pages = "490 - 500",
+
+year = "2015",
+
+note = "",
+
+issn = "0306-2619",
+
+doi = "http://dx.doi.org/10.1016/j.apenergy.2014.06.070",
+
+author = "Sebastian C. Manchester and Lukas G. Swan and Dominic Groulx",
+
+}
+
+
+
+@article{Comodi2015,
+
+title = "Multi-apartment residential microgrid with electrical and thermal storage devices: Experimental analysis and simulation of energy management strategies ",
+
+journal = "Applied Energy ",
+
+volume = "137",
+
+number = "0",
+
+pages = "854 - 866",
+
+year = "2015",
+
+note = "",
+
+issn = "0306-2619",
+
+doi = "http://dx.doi.org/10.1016/j.apenergy.2014.07.068",
+
+author = "Gabriele Comodi and Andrea Giantomassi and Marco Severini and Stefano Squartini and Francesco Ferracuti and Alessandro Fonti and Davide Nardi Cesarini and Matteo Morodo and Fabio Polonara"
+
+}
+
+
+
+
+
+@article{Zakeri2015,
+
+title = "Electrical energy storage systems: A comparative life cycle cost analysis ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "42",
+
+number = "0",
+
+pages = "569 - 596",
+
+year = "2015",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.10.011",
+
+author = "Behnam Zakeri and Sanna Syri",
+
+}
+
+
+@inproceedings{tinador2008superconducting,
+  title={Superconducting magnetic energy storage; status and Perspective},
+  author={Tinador, P},
+  booktitle={IEEE/CSC\&ESAS European Superconductivity news forum},
+  number={3},
+  year={2008}
+}
+
+
+
+@article{Tan2013,
+
+title = "Advances and trends of energy storage technology in Microgrid ",
+
+journal = "International Journal of Electrical Power \& Energy Systems ",
+
+volume = "44",
+
+number = "1",
+
+pages = "179 - 191",
+
+year = "2013",
+
+note = "",
+
+issn = "0142-0615",
+
+doi = "http://dx.doi.org/10.1016/j.ijepes.2012.07.015",
+
+author = "Xingguo Tan and Qingmin Li and Hui Wang",
+
+}
+
+
+
+@article{Saber2010,
+
+title = "Intelligent unit commitment with vehicle-to-grid -- A cost-emission optimization ",
+
+journal = "Journal of Power Sources ",
+
+volume = "195",
+
+number = "3",
+
+pages = "898 - 911",
+
+year = "2010",
+
+note = "",
+
+issn = "0378-7753",
+
+uthor = "Ahmed Yousuf Saber and Ganesh Kumar Venayagamoorthy",
+
+}
+
+
+
+@article{Romo2015,
+
+title = "Power quality of actual grids with plug-in electric vehicles in presence of renewables and micro-grids ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "46",
+
+number = "0",
+
+pages = "189 - 200",
+
+year = "2015",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2015.02.014",
+
+
+author = "R. Romo and O. Micheloud",
+
+}
+
+
+@INPROCEEDINGS{Kumar2014WCCI, 
+
+author={Venayagamoorthy, G.K. and Chakravarty, P.}, 
+
+booktitle={Fuzzy Systems (FUZZ-IEEE), 2014 IEEE International Conference on}, 
+
+title={Optimal fuzzy logic based coordination controller for improved transient stability of a smart grid}, 
+
+year={2014}, 
+
+month={July}, 
+
+pages={346-353}, 
+
+doi={10.1109/FUZZ-IEEE.2014.6891824},
+}
+
+@INPROCEEDINGS{Alvarez2009OnlineMinRunningCostCFC,
+author={Alvarez, E. and Lopez, A.C. and G\'omez-Aleixandre, J. and de Abajo, N.},
+booktitle={Sustainable Alternative Energy (SAE), 2009 IEEE PES/IAS Conference on},
+title={On-line minimization of running costs, greenhouse gas emissions and the impact of distributed generation using microgrids on the electrical system},
+year={2009},
+month={Sept},
+pages={1-10},
+doi={10.1109/SAE.2009.5534847}}
+
+@inproceedings{colson2009ant,
+  title={Ant colony optimization for microgrid multi-objective power management},
+  author={Colson, CM and Nehrir, MH and Wang, C},
+  booktitle={Power Systems Conference and Exposition, 2009. PSCE'09. IEEE/PES},
+  pages={1--7},
+  year={2009},
+}
+
+@INPROCEEDINGS{Kanchev2010SmartMonMG,
+author={Kanchev, H. and Lu, D. and Francois, B. and Lazarov, V.},
+booktitle={Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2010 IEEE PES},
+title={Smart monitoring of a microgrid including gas turbines and a dispatched PV-based active generator for energy management and emissions reduction},
+year={2010},
+month={Oct},
+pages={1-8},
+doi={10.1109/ISGTEUROPE.2010.5638875}}
+
+@article{GarciaPEVReview2014,
+title = "Plug-in electric vehicles in electric distribution networks: A review of smart charging approaches ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+volume = "38",
+pages = "717 - 731",
+year = "2014",
+issn = "1364-0321",
+doi = "http://dx.doi.org/10.1016/j.rser.2014.07.040",
+author = "J. Garc\'ia-Villalobos and I. Zamora and J.I. San Mart\'in and F.J. Asensio and V. Aperribay",
+}
+
+@article{ZhangMASChinese2008,
+title = "Application of multi-agent system in a microgrid (in Chinese)"
+journal = "Autom. Electr. Power Syst",
+volume = "32",
+pages = "80-82",
+year = "2008",
+author = "Zhang, J. and Ai, Q. and Wang, X",
+}
+
+
+
+@Article{Yoo2013,
+AUTHOR = {Yoo, Cheol-Hee and Chung, Il-Yop and Lee, Hak-Ju and Hong, Sung-Soo},
+TITLE = {Intelligent Control of Battery Energy Storage for Multi-Agent Based Microgrid Energy Management},
+JOURNAL = {Energies},
+VOLUME = {6},
+YEAR = {2013},
+NUMBER = {10},
+PAGES = {4956--4979},
+ISSN = {1996-1073},
+DOI = {10.3390/en6104956}
+}
+
+
+
+
+
+
+
+
+
+
+@article{Zhang2014,
+
+title = "Review on probabilistic forecasting of wind power generation ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "32",
+
+number = "0",
+
+pages = "255 - 270",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.01.033",
+
+author = "Yao Zhang and Jianxue Wang and Xifan Wang",
+
+}
+
+@ARTICLE{Hong2014, 
+author={Tao Hong and Wilson, J. and Jingrui Xie}, 
+journal={Smart Grid, IEEE Transactions on}, 
+title={Long Term Probabilistic Load Forecasting and Normalization With Hourly Information}, 
+year={2014}, 
+month={Jan}, 
+volume={5}, 
+number={1}, 
+pages={456-462}, 
+ISSN={1949-3053},}
+
+@article{Weron2014,
+
+title = "Electricity price forecasting: A review of the state-of-the-art with a look into the future ",
+
+journal = "International Journal of Forecasting ",
+
+volume = "30",
+
+number = "4",
+
+pages = "1030 - 1081",
+
+year = "2014",
+
+note = "",
+
+issn = "0169-2070",
+
+author = "Rafal Weron",
+
+}
+
+
+
+@article{Hu2014,
+title = "How Smart Grid Contributes to Energy Sustainability ",
+journal = "Energy Procedia ",
+volume = "61",
+pages = "858 - 861",
+year = "2014",
+note = "International Conference on Applied Energy, {ICAE2014} ",
+issn = "1876-6102",
+doi = "http://dx.doi.org/10.1016/j.egypro.2014.11.982",
+author = "Zhuangli Hu and Canbing Li and Yijia Cao and Baling Fang and Lina He and Mi Zhang",
+}
+
+
+
+@article{Goulden2014,
+title = "Smart grids, smart users? The role of the user in demand side management ",
+journal = "Energy Research \& Social Science ",
+volume = "2",
+pages = "21 - 29",
+year = "2014",
+issn = "2214-6296",
+doi = "http://dx.doi.org/10.1016/j.erss.2014.04.008",
+author = "Murray Goulden and Ben Bedwell and Stefan Rennick-Egglestone and Tom Rodden and Alexa Spence",
+}
+
+@article{Mwasilu2014,
+title = "Electric vehicles and smart grid interaction: A review on vehicle to grid and renewable energy sources integration ",
+journal = "Renewable and Sustainable Energy Reviews ",
+volume = "34",
+pages = "501 - 516",
+year = "2014",
+issn = "1364-0321",
+doi = "http://dx.doi.org/10.1016/j.rser.2014.03.031",
+author = "Francis Mwasilu and Jackson John Justo and Eun-Kyung Kim and Ton Duc Do and Jin-Woo Jung",
+}
+
+
+@article{Agrawal2014,
+  title="Overview of Multi-Agent Approach for Micro-Grid Energy Management",
+  author= "Agrawal, Meena and Mittal, Arvind ",
+  journal = "Journal of Electrical and Electronics Engineering, {IOSR-JEEE}",
+volume = "9",
+pages = "01 - 07",
+year = "2014",
+issn = "2278-1676",
+doi = "http://dx.doi.org/10.1016/j.rser.2014.03.031",
+}
+
+
+@article{Prado2014,
+title = "Differential evolution using ancestor tree for service restoration in power distribution systems ",
+journal = "Applied Soft Computing ",
+volume = "23",
+pages = "498 - 508",
+year = "2014",
+issn = "1568-4946",
+doi = "http://dx.doi.org/10.1016/j.asoc.2014.06.005",
+
+author = "Ricardo S. Prado and Rodrigo C. Pedrosa Silva and Oriane M. Neto and Frederico G. Guimar\~aes and Danilo Sipoli Sanches and Jo\~ao Bosco A. London Jr. and Alexandre C.B. Delbem",
+}
+
+
+@article{Yu2015,
+title = "Power distribution system service restoration bases on a committee-based intelligent agent architecture ",
+journal = "Engineering Applications of Artificial Intelligence ",
+volume = "41",
+pages = "92 - 102",
+year = "2015",
+issn = "0952-1976",
+doi = "http://dx.doi.org/10.1016/j.engappai.2015.01.011",
+author = "Wan-Yu Yu and Von-Wun Soo and Men-Shen Tsai",
+}
+
+
+@INPROCEEDINGS{Nagata2000,
+author={Nagata, T. and Watanabe, H. and Ohno, M. and Sasaki, H.},
+booktitle={Power System Technology, 2000. Proceedings. PowerCon 2000. International Conference on},
+title={A multi-agent approach to power system restoration},
+year={2000},
+month={},
+volume={3},
+pages={1551-1556 vol.3},
+keywords={mathematical programming;power system restoration;bus agents;decision process;dynamic system;facilitator agent;faults;mathematical programming;multi-agent approach;power system restoration;sub-optimal target configuration;Application software;Costs;Java;Mathematical programming;Multiagent systems;Power industry;Power system control;Power system management;Power system planning;Power system restoration},
+doi={10.1109/ICPST.2000.898202},}
+
+
+@ARTICLE{Solanki2007,
+author={Solanki, J.M. and Khushalani, S. and Schulz, N.N.},
+journal={Power Systems, IEEE Transactions on},
+title={A Multi-Agent Solution to Distribution Systems Restoration},
+year={2007},
+month={Aug},
+volume={22},
+number={3},
+pages={1026-1034},
+doi={10.1109/TPWRS.2007.901280},
+ISSN={0885-8950},
+}
+
+
+@INPROCEEDINGS{Pan2009,
+author={Yen-Tsung Pan and Men-Shen Tsai},
+booktitle={Intelligent System Applications to Power Systems, 2009. ISAP '09. 15th International Conference on},
+title={Development a BDI-Based Intelligent Agent Architecture for Distribution Systems Restoration Planning},
+year={2009},
+month={Nov},
+pages={1-6},
+doi={10.1109/ISAP.2009.5352961},
+}
+
+@incollection{Leitao2009,
+year={2009},
+isbn={978-3-642-03721-4},
+booktitle={Transactions on Large-Scale Data- and Knowledge-Centered Systems I},
+volume={5740},
+series={Lecture Notes in Computer Science},
+editor={Hameurlain, Abdelkader and Küng, Josef and Wagner, Roland},
+doi={10.1007/978-3-642-03722-1_11},
+title={Self-Adaptation for Robustness and Cooperation in Holonic Multi-Agent Systems},
+publisher={Springer Berlin Heidelberg},
+keywords={Robustness; Cooperation; Self-Adaptation; Self-organization; Holonic Multi-agent Systems},
+author={Leitao, Paulo and Valckenaers, Paul and Adam, Emmanuel},
+pages={267-288},
+}
+
+@book{Ekanayake2012BookSG,
+  title={Smart grid: technology and applications},
+  author={Ekanayake, Janaka and Liyanage, Kithsiri and Wu, Jianzhong and Yokoyama, Akihiko and Jenkins, Nicholas},
+  year={2012},
+  publisher={John Wiley \& Sons}
+}
+
+
+@ARTICLE{Zhao2013OperationStandAloneMG,
+author={Bo Zhao and Xuesong Zhang and Jian Chen and Caisheng Wang and Li Guo},
+journal={Sustainable Energy, IEEE Transactions on},
+title={Operation Optimization of Standalone Microgrids Considering Lifetime Characteristics of Battery Energy Storage System},
+year={2013},
+month={Oct},
+volume={4},
+number={4},
+pages={934-943},
+doi={10.1109/TSTE.2013.2248400},
+ISSN={1949-3029},
+}
+
+
+@INPROCEEDINGS{Liu2013MASFrequencyStabilizationIslanded,
+author={Wei Liu and Wei Gu and Bo Zhao},
+booktitle={Innovative Smart Grid Technologies Europe (ISGT EUROPE), 2013 4th IEEE/PES},
+title={A novel multi-agent based control approach for frequency stabilization of islanded microgrids},
+year={2013},
+month={Oct},
+pages={1-5},
+keywords={control engineering computing;distributed power generation;frequency control;frequency stability;multi-agent systems;power generation control;ACA;DMAS;average consensus algorithm;consensus frequency recovery;cooperative frequency control strategy;decentralized multiagent system;emergency condition;frequency stability;frequency stabilization;global information;islanded microgrid operation;multiagent-based control approach;multistage load shedding;neighboring agents;primary frequency control;secondary frequency control;shared global information;Frequency control;Multi-agent systems;Power systems;Radio access networks;Topology;Average Consensus Algorithm;Cooperative Frequency Control;Decentralized Multi-Agent System;Global Information},
+doi={10.1109/ISGTEurope.2013.6695328},}
+
+
+@article{Kuznetsova2015,
+title = "Analysis of robust optimization for decentralized microgrid energy management under uncertainty ",
+journal = "International Journal of Electrical Power \& Energy Systems ",
+volume = "64",
+pages = "815 - 832",
+year = "2015",
+issn = "0142-0615",
+doi = "http://dx.doi.org/10.1016/j.ijepes.2014.07.064",
+author = "Elizaveta Kuznetsova and Carlos Ruiz and Yan-Fu Li and Enrico Zio",
+}
+
+
+
+@article{Almulali2013,
+
+title = "Exploring the relationship between urbanization, energy consumption, and {CO2} emission in {MENA} countries ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "23",
+
+
+pages = "107 - 112",
+
+year = "2013",
+
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2013.02.041",
+
+author = "Usama Al-mulali and Hassan Gholipour Fereidouni and Janice Y.M. Lee and Che Normee Binti Che Sab",
+
+}
+
+@article{Saadatian2013,
+title = "A review of energy aspects of green roofs ",
+journal = "Renewable and Sustainable Energy Reviews ",
+volume = "23",
+pages = "155 - 168",
+year = "2013",
+issn = "1364-0321",
+doi = "http://dx.doi.org/10.1016/j.rser.2013.02.022",
+author = "Omidreza Saadatian and K. Sopian and E. Salleh and C.H. Lim and Safa Riffat and Elham Saadatian and Arash Toudeshki and M.Y. Sulaiman",
+}
+
+
+@article{Ishugah2014,
+
+title = "Advances in wind energy resource exploitation in urban environment: A review ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "37",
+
+
+pages = "613 - 626",
+
+year = "2014",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2014.05.053",
+
+author = "T.F. Ishugah and Y. Li and R.Z. Wang and J.K. Kiplagat",
+
+}
+
+
+@article{TojaSilva2013,
+
+title = "Urban wind energy exploitation systems: Behaviour under multidirectional flow conditions -- Opportunities and challenges ",
+
+journal = "Renewable and Sustainable Energy Reviews ",
+
+volume = "24",
+
+pages = "364 - 378",
+
+year = "2013",
+
+note = "",
+
+issn = "1364-0321",
+
+doi = "http://dx.doi.org/10.1016/j.rser.2013.03.052",
+
+author = "Francisco Toja-Silva and Antonio Colmenar-Santos and Manuel Castro-Gil",
+
+}
+
+@article{Pepermans2014ValuingSM,
+title = "Valuing smart meters ",
+journal = "Energy Economics ",
+volume = "45",
+pages = "280 - 294",
+year = "2014",
+issn = "0140-9883",
+doi = "http://dx.doi.org/10.1016/j.eneco.2014.07.011",
+author = "Guido Pepermans",
+}
+
+
+@article{Perez2014DisagrgregationUsingSM,
+title = "Nonintrusive disaggregation of residential air-conditioning loads from sub-hourly smart meter data ",
+journal = "Energy and Buildings ",
+volume = "81",
+pages = "316 - 325",
+year = "2014",
+issn = "0378-7788",
+doi = "http://dx.doi.org/10.1016/j.enbuild.2014.06.031",
+author = "Krystian X. Perez and Wesley J. Cole and Joshua D. Rhodes and Abigail Ondeck and Michael Webber and Michael Baldea and Thomas F. Edgar",
+
+}
+
+
+@ARTICLE{Lagorse2009,
+author={Lagorse, J. and Simoes, M.G. and Miraoui, A.},
+journal={Industry Applications, IEEE Transactions on},
+title={A Multiagent Fuzzy-Logic-Based Energy Management of Hybrid Systems},
+year={2009},
+month={Nov},
+volume={45},
+number={6},
+pages={2123-2129},
+doi={10.1109/TIA.2009.2031786},
+ISSN={0093-9994},
+}
+
+
+@ARTICLE{Lopes2006,
+author={Peas Lopes, J.A. and Moreira, C.L. and Madureira, A.G.},
+journal={Power Systems, IEEE Transactions on},
+title={Defining control strategies for MicroGrids islanded operation},
+year={2006},
+month={May},
+volume={21},
+number={2},
+pages={916-924},
+doi={10.1109/TPWRS.2006.873018},
+ISSN={0885-8950},}
+
+
+@article{Raju2015,
+title = "Distributed Optimization of Solar Micro-grid Using Multi Agent Reinforcement Learning ",
+journal = "Procedia Computer Science ",
+volume = "46",
+pages = "231 - 239",
+year = "2015",
+issn = "1877-0509",
+doi = "http://dx.doi.org/10.1016/j.procs.2015.02.016",
+author = "Leo Raju and Sibi Sankar and R.S. Milton",
+}
+
+
+@article{Torriti2014PeopleOrMachines,
+title = "People or machines? Assessing the impacts of smart meters and load controllers in Italian office spaces ",
+journal = "Energy for Sustainable Development ",
+volume = "20",
+pages = "86 - 91",
+year = "2014",
+issn = "0973-0826",
+doi = "http://dx.doi.org/10.1016/j.esd.2014.01.006",
+author = "Jacopo Torriti",
+}
+
+
+@INPROCEEDINGS{Abras2008,
+author={Abras, S. and Pesty, S. and Ploix, S. and Jacomino, M.},
+booktitle={Information and Communication Technologies: From Theory to Applications, 2008. ICTTA 2008. 3rd International Conference on},
+title={An Anticipation Mechanism for Power Management in a Smart Home using Multi-Agent Systems},
+year={2008},
+month={April},
+pages={1-6},
+doi={10.1109/ICTTA.2008.4530305},}
+
+
+@article{Zhang2013,
+title = "Efficient energy consumption and operation management in a smart building with microgrid ",
+journal = "Energy Conversion and Management ",
+volume = "74",
+pages = "209 - 222",
+year = "2013",
+issn = "0196-8904",
+doi = "http://dx.doi.org/10.1016/j.enconman.2013.04.038",
+author = "Di Zhang and Nilay Shah and Lazaros G. Papageorgiou",
+}
+
+
+@INPROCEEDINGS{2013,
+author={Smitha, S.D. and Chacko, F.M.},
+booktitle={Automation, Computing, Communication, Control and Compressed Sensing (iMac4s), 2013 International Multi-Conference on},
+title={Intelligent energy management in smart and sustainable buildings with multi-agent control system},
+year={2013},
+month={March},
+pages={190-195},
+doi={10.1109/iMac4s.2013.6526406},
+}

@@ -1,0 +1,9 @@
+@INPROCEEDINGS{5617485,
+author={Wen-Di Zheng and Jin-Ding Cai},
+booktitle={Critical Infrastructure (CRIS), 2010 5th International Conference on},
+title={A multi-agent system for distributed energy resources control in microgrid},
+year={2010},
+month={Sept},
+pages={1-5},
+keywords={control engineering computing;distributed power generation;load forecasting;load shedding;multi-agent systems;optimisation;power engineering computing;power generation control;distributed artificial intelligence methods;distributed energy resources control;distributed generation systems;generation forecasting;global optimization;grid-connected mode;island mode;load forecasting;load shedding schedule;local agent;microgrid;multiagent system;regional agent;service agent;Batteries;Density estimation robust algorithm;Frequency control;Multiagent systems;Power system dynamics;Reactive power;Wind turbines;Distributed generation;microgrid;multi-agent system (MAS)},
+doi={10.1109/CRIS.2010.5617485},}

@@ -1,0 +1,48 @@
+CORMAS adopts a multi-agent systems application
+specifically designed for renewable resource management.
+Multi-agent systems evolved from knowledge-based systems,
+which makes it possible to represent ‘‘knowledge and reasoning
+of several heterogeneous agents that need to be accommodated
+in addressing planning problems in a collective way’’
+(Bousquet and Le Page, 2004). A review of its applications
+to ecosystem management is reported by Bousquet and Le Page
+(2004). An integrated use of CORMAS, Geographic Informa-
+tion Systems (GIS), and participatory modelling was developed
+for the Senegal River Valley and was reported by Aquino et al.
+(2002) as a successful decision aid and local empowerment tool
+for dealing with resource management issues such as
+sustainable land-use management. CORMAS has also been
+the platform used by Purnomo et al. (2005) to develop and
+analyse a multi-agent simulation model of a community-
+managed forest.
+
+
+
+Developing multi-stakeholder forest management scenarios: a multi-agent system simulation approach applied in Indonesia
+
+Participatory approaches to development in general and natural resource management
+in particular are now a widely accepted management strategy. Multi-agent system
+(MAS), a computer-based tool, offers a promising approach for multi-stakeholder
+management systems such as the case involving community-managed resources.
+MAS provides a framework where stakeholders (or agents) individual actions,
+behaviors and rational decisions can be analyzed in the context of the other
+stakeholders actions and decisions. This robust approach offers a convenient analytical
+framework that can be used to simulate agents actions, reactions and interactions.
+The approach also provides an environment where strategies or multi-stakeholder
+forest management scenarios can be developed and analyzed. This paper describes a
+MAS model developed for a forest management unit located in East Kalimantan,
+Indonesia. Results and experience gained from the case study suggest that MAS is a
+suitable approach for developing multi-stakeholder forest management strategies.
+
+Authors: Purnomo, H.; Mendoza, G.A.; Prabhu, R.; Yasmi, Y.
+
+Topic: models,forest management,community forestry,community involvement,participation,planning,case studies,computer simulation
+
+Geographic: Indonesia,East Kalimantan
+
+Publication Year: 2005
+
+ISSN: 1389-9341
+
+Source: Forest Policy and Economics 7(4): 475-491
+

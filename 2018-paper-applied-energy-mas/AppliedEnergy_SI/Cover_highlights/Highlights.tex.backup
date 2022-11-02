@@ -1,0 +1,16 @@
+\documentclass[preprint,12pt]{elsarticle}
+\journal{Renewable Energy}
+\usepackage[latin1]{inputenc}
+
+\begin{document}
+\thispagestyle{empty}
+Highlights of the paper:
+
+\begin{itemize}
+ \item Overview of multi-agent approach for smart-microgrid energy management and operation;
+ \item ...dsada
+ \item Future applications and trends in the field of smart energy storage, service restoration, MG management and ... are highlighted. 
+\end{itemize}
+
+
+\end{document}

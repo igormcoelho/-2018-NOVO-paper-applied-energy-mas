@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}MAS and SG control }{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}DER }{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Security }{7}{subsection.2.2}
+\contentsline {section}{\numberline {3}MAS and Smart-Microgrid }{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Energy storage }{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Demand control }{9}{subsection.3.2}
+\contentsline {section}{\numberline {4}Future MAS in the context of Smart-Microgrid }{9}{section.4}
+\contentsline {section}{\numberline {5}Conclusions }{10}{section.5}

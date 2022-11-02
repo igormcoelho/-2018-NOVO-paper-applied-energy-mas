@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: Manuscript_MAS_MG.aux
+The style file: elsarticle-num.bst
+Database file #1: otimizacao.bib
+Warning--entry type for "goldsmith2012computingPatent" isn't style-file defined
+--line 2449 of file otimizacao.bib
+You've used 31 entries,
+            2937 wiz_defined-function locations,
+            913 strings with 12983 characters,
+and the built_in function-call counts, 11471 in all, are:
+= -- 1116
+> -- 388
+< -- 5
++ -- 150
+- -- 119
+* -- 999
+:= -- 1541
+add.period$ -- 59
+call.type$ -- 31
+change.case$ -- 32
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 308
+empty$ -- 1209
+format.name$ -- 149
+if$ -- 2929
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 30
+newline$ -- 130
+num.names$ -- 31
+pop$ -- 157
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 672
+stack$ -- 0
+substring$ -- 805
+swap$ -- 126
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 66
+width$ -- 33
+write$ -- 318
+(There was 1 warning)

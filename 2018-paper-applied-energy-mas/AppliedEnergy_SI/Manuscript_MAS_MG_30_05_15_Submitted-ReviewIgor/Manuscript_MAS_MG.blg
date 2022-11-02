@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Manuscript_MAS_MG.aux
+The style file: elsarticle-num.bst
+Database file #1: otimizacao.bib
+Warning--entry type for "goldsmith2012computingPatent" isn't style-file defined
+--line 2335 of file otimizacao.bib
+Warning--entry type for "SAMPIGETHAYA2012" isn't style-file defined
+--line 2361 of file otimizacao.bib
+I was expecting a `,' or a `}'---line 3639 of file otimizacao.bib
+ : 
+ : journal = "Renewable Energy ",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3919 of file otimizacao.bib
+ : @article{McHenry2013
+ :                     ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4407 of file otimizacao.bib
+ : 
+ : journal = "Autom. Electr. Power Syst",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--there's a number but no series in tinador2008superconducting
+Warning--empty pages in tinador2008superconducting
+Warning--empty author in Tabrizi2015
+Warning--empty journal in Tabrizi2015
+Warning--empty author in Saber2010
+You've used 105 entries,
+            2937 wiz_defined-function locations,
+            1412 strings with 30404 characters,
+and the built_in function-call counts, 37674 in all, are:
+= -- 3663
+> -- 1241
+< -- 25
++ -- 483
+- -- 378
+* -- 3160
+:= -- 4998
+add.period$ -- 194
+call.type$ -- 105
+change.case$ -- 108
+chr.to.int$ -- 3
+cite$ -- 110
+duplicate$ -- 1040
+empty$ -- 4056
+format.name$ -- 469
+if$ -- 9702
+int.to.chr$ -- 0
+int.to.str$ -- 105
+missing$ -- 104
+newline$ -- 415
+num.names$ -- 105
+pop$ -- 558
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2281
+stack$ -- 0
+substring$ -- 2539
+swap$ -- 415
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 230
+width$ -- 108
+write$ -- 1049
+(There were 3 error messages)
